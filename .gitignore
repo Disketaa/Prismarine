@@ -1,0 +1,11 @@
+*/
+
+!/config
+!/mods
+!/shaderpacks
+!.gitignore
+
+/config/sodium-fingerprint.json
+/options.txt
+/realms_persistence.json
+/usercache.json
