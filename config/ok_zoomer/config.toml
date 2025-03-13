@@ -58,7 +58,7 @@
 	# Determines the number to be used on the exponential curve. If unsure, keep this value at 2.
 	# range: 2 - 2147483647
 	# default: 2
-	scroll_base = 2
+	scroll_base = 3
 	# Determines the resolution of zoom scrolling. This will effectively multiply the amount of scroll steps.
 	# range: 1 - 2147483647
 	# default: 5
@@ -85,7 +85,7 @@
 	# The minimum zoom divisor that you can scroll down.
 	# range: 2.2250738585072014E-308 - 1.7976931348623157E308
 	# default: 1.0
-	minimum_zoom_divisor = 1.0
+	minimum_zoom_divisor = 4.0
 	# The maximum zoom divisor that you can scroll up.
 	# range: 2.2250738585072014E-308 - 1.7976931348623157E308
 	# default: 50.0
@@ -93,11 +93,11 @@
 	# The number of steps between the zoom divisor and the minimum zoom divisor. Used by zoom scrolling.
 	# range: 0 - 2147483647
 	# default: 5
-	lower_scroll_steps = 5
+	lower_scroll_steps = 10
 	# The number of steps between the zoom divisor and the maximum zoom divisor. Used by zoom scrolling.
 	# range: 0 - 2147483647
 	# default: 10
-	upper_scroll_steps = 10
+	upper_scroll_steps = 15
 
 # Allows for precise tweaking of zoom transitions.
 [transition_values]

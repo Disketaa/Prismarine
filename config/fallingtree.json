@@ -5,7 +5,7 @@
     "allowedLeaves": [],
     "allowedNonDecayLeaves": [],
     "deniedLeaves": [],
-    "breakMode": "FALL_ITEM",
+    "breakMode": "INSTANTANEOUS",
     "detectionMode": "ABOVE_CUT",
     "maxScanSize": 500,
     "maxSize": 100,
@@ -32,7 +32,7 @@
     "ignoreTools": false,
     "damageMultiplicand": 1.5,
     "damageRounding": "ROUND_DOWN",
-    "speedMultiplicand": 0.0,
+    "speedMultiplicand": 1.0,
     "forceToolUsage": false
   },
   "player": {
