@@ -5,7 +5,7 @@
     "allowedLeaves": [],
     "allowedNonDecayLeaves": [],
     "deniedLeaves": [],
-    "breakMode": "FALL_ALL_BLOCK",
+    "breakMode": "FALL_ITEM",
     "detectionMode": "ABOVE_CUT",
     "maxScanSize": 500,
     "maxSize": 100,
