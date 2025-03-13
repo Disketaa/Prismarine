@@ -5,7 +5,9 @@
   "fallbacks": [
     "en_us"
   ],
-  "previousFallbacks": [],
+  "previousFallbacks": [
+    "ru_ru"
+  ],
   "language": "ru_ru",
   "previousLanguage": "en_us"
 }

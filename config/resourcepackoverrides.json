@@ -1,0 +1,22 @@
+{
+  "schema_version": 2,
+  "pack_overrides": {
+    "file/Main": {
+      "title": "{\"translate\":\"resourcePack.vanilla.name\"}",
+      "required": true,
+      "default_position": "bottom"
+    },
+
+    "Hidden": [
+      "fabric",
+      "high_contrast",
+      "programmer_art",
+      "vanilla"
+
+    ],
+
+    "$$Hidden": {
+      "hidden": true
+    }
+  }
+}
