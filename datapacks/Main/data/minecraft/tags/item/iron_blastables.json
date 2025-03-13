@@ -1,0 +1,25 @@
+{
+  "values": [
+    "minecraft:iron_block",
+    "metalfences:iron_fence",
+    "metalfences:iron_fence_gate",
+    "minecraft:iron_door",
+    "minecraft:iron_trapdoor",
+    "minecraft:heavy_weighted_pressure_plate",
+    "minecraft:iron_bars",
+    "minecraft:smithing_table",
+    "minecraft:cauldron",
+    "#minecraft:anvil",
+    "minecraft:hopper",
+    "minecraft:lantern",
+    "minecraft:soul_lantern",
+    "minecraft:tripwire_hook",
+    "minecraft:rail",
+    "minecraft:activator_rail",
+    "minecraft:chest_minecart",
+    "minecraft:hopper_minecart",
+    "minecraft:minecart",
+    "minecraft:chain",
+    "#minecraft:iron_smeltables"
+  ]
+}

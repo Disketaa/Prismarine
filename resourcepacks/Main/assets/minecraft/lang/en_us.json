@@ -1,0 +1,6 @@
+{
+  "dataPack.main.description": "The default data for Minecraft",
+  "debug.reload_datapacks.message": "Reloaded data packs",
+  "menu.options": "Options",
+  "resourcePack.vanilla.description": "The default look and feel\nof Minecraft"
+}

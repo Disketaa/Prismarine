@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "farmersdelight:iron_knife",
+    "farmersdelight:golden_knife",
+    "farmersdelight:diamond_knife",
+    "farmersdelight:netherite_knife"
+  ]
+}

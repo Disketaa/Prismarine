@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:brain_coral_block"
+  },
+  "result": {
+    "id": "minecraft:brain_coral",
+    "count": 4
+  }
+}
