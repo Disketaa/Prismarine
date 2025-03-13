@@ -1,0 +1,16 @@
+{
+  "uncap_menu_frame_rate": true,
+  "idle": {
+    "timeout": 600
+  },
+  "states": {
+    "unfocused": {
+      "show_toasts": true,
+      "run_garbage_collector": true
+    },
+    "invisible": {
+      "show_toasts": true,
+      "run_garbage_collector": true
+    }
+  }
+}

@@ -20,4 +20,5 @@ beaconBeamCulling = true
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
+farmersdelight = true
 minecraft = true
