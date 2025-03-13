@@ -2,6 +2,7 @@
   "removed": [
     "fluid:minecraft:lava",
     "fluid:minecraft:water",
+    "item:farmersdelight:flint_knife",
     "item:minecraft:bedrock",
     "item:minecraft:end_portal_frame",
     "item:minecraft:vault",
