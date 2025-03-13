@@ -1,6 +1,10 @@
 {
+  "block.minecraft.stonecutter": "Резальный станок",
+  "container.stonecutter": "Резальный станок",
   "dataPack.main.description": "Стандартный набор данных Milestone",
   "debug.reload_datapacks.message": "Наборы данных перезагружены",
   "menu.options": "Настройки",
-  "resourcePack.vanilla.description": "Обычный внешний вид Minecraft"
+  "resourcePack.vanilla.description": "Обычный внешний вид Minecraft",
+  "subtitles.entity.villager.work_mason": "Резчик работает",
+  "subtitles.ui.stonecutter.take_result": "Резальный станок использован"
 }
