@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "-": {
+      "item": "minecraft:candle"
+    }
+  },
+  "pattern": [
+    "#",
+    "/",
+    "-"
+  ],
+  "result": {
+    "id": "templates:candle"
+  }
+}

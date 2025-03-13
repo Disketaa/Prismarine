@@ -1,0 +1,57 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_stick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:stick"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "templates:button"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_stick",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "templates:button",
+      "templates:candle",
+      "templates:carpet",
+      "templates:cube",
+      "templates:door",
+      "templates:fence",
+      "templates:fence_gate",
+      "templates:iron_door",
+      "templates:iron_trapdoor",
+      "templates:lever",
+      "templates:pane",
+      "templates:post",
+      "templates:post_cross",
+      "templates:pressure_plate",
+      "templates:slab",
+      "templates:slab_from_vert_slab",
+      "templates:slope",
+      "templates:stairs",
+      "templates:tiny_slope",
+      "templates:tnt",
+      "templates:trapdoor",
+      "templates:vertical_slab",
+      "templates:vert_slab_from_slab",
+      "templates:wall"
+    ]
+  }
+}

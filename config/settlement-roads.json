@@ -5,7 +5,7 @@
   "loadRoadChunks": false,
   "distanceBetweenBuoys": 30,
   "averagingRadius": 3,
-  "allowArtificial": false,
-  "allowNatural": true,
+  "allowArtificial": true,
+  "allowNatural": false,
   "placeWaypoints": false
 }

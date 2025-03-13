@@ -1,13 +1,5 @@
 {
   "values": [
-    "metalfences:waxed_copper_fence",
-    "metalfences:waxed_copper_fence_gate",
-    "metalfences:waxed_exposed_copper_fence",
-    "metalfences:waxed_exposed_copper_fence_gate",
-    "metalfences:waxed_oxidized_copper_fence",
-    "metalfences:waxed_oxidized_copper_fence_gate",
-    "metalfences:waxed_weathered_copper_fence",
-    "metalfences:waxed_weathered_copper_fence_gate",
     "minecraft:waxed_chiseled_copper",
     "minecraft:waxed_copper_block",
     "minecraft:waxed_copper_bulb",

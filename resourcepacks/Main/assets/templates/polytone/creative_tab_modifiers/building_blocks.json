@@ -1,0 +1,36 @@
+{
+  "targets": [
+    "building_blocks"
+  ],
+  "additions": [
+    {
+      "items": [
+        "templates:stairs",
+        "templates:slab",
+        "templates:vertical_slab",
+        "templates:pane",
+        "templates:wall",
+        "templates:post_cross",
+        "templates:post",
+        "templates:fence",
+        "templates:fence_gate",
+        "templates:door",
+        "templates:iron_door",
+        "templates:trapdoor",
+        "templates:iron_trapdoor",
+        "templates:carpet",
+        "templates:pressure_plate",
+        "templates:button",
+        "templates:lever",
+        "templates:candle"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:oak_log"
+        ]
+      }
+    }
+  ]
+}

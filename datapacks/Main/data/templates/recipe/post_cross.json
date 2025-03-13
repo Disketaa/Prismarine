@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "templates:post"
+    },
+    {
+      "item": "templates:post"
+    }
+  ],
+  "result": {
+    "id": "templates:post_cross"
+  }
+}

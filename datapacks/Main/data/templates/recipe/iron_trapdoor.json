@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "-": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "///",
+    "///",
+    "#-#"
+  ],
+  "result": {
+    "id": "templates:iron_trapdoor",
+    "count": 3
+  }
+}

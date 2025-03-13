@@ -1,0 +1,11 @@
+{
+  "targets": [
+    "moredelight:moredelight_itemgroup"
+  ],
+  "removals": [
+    {
+      "type": "id_match",
+      "namespace": "moredelight"
+    }
+  ]
+}
