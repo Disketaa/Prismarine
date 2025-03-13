@@ -1,7 +1,7 @@
 {
   "options": {
-    "interactionRateServer": 1,
-    "interactionRateClient": 1,
+    "interactionRateServer": 10,
+    "interactionRateClient": 10,
     "serverAcceleratedSorting": true,
     "optimizedCreativeSorting": false,
     "hotbarScope": "HOTBAR",
@@ -10,7 +10,7 @@
     "sortOrderStr": "creative",
     "shiftSortOrderStr": "quantity",
     "ctrlSortOrderStr": "alphabet",
-    "altSortOrderStr": "raw_id",
+    "altSortOrderStr": "quantity",
     "soundEnabled": false,
     "sortSound": "minecraft:block.note_block.xylophone",
     "soundRate": 1,
