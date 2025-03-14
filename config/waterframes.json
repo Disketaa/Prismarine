@@ -1,0 +1,48 @@
+{
+  "Rendering": {
+    "maxWidth": 48.0,
+    "maxHeight": 48.0,
+    "maxRenderDistance": 64,
+    "maxProjectionDistance": 64.0,
+    "keepRendering": true
+  },
+  "Multimedia": {
+    "Multimedia": {
+      "maxVolumeDistance": 64,
+      "maxVolume": 100,
+      "useMasterVolume": true,
+      "useVSEurekaCompat": true
+    },
+    "WaterMedia": {
+      "WaterMedia": {
+        "useSlavistMode": false,
+        "useMultimedia": true
+      }
+    }
+  },
+  "BlockBehavior": {
+    "useLightsOnPlay": true,
+    "forceLightsOnPlay": true,
+    "useRedstone": true,
+    "useMasterModeOnRedsone": false,
+    "useLagTickCorrection": true
+  },
+  "RemoteControl": {
+    "remoteDistance": 32
+  },
+  "Permissions": {
+    "useInAdventure": false,
+    "useInSurvival": true,
+    "useForAnyone": true,
+    "useBindingRemotes": true,
+    "useRemotes": true,
+    "useWhitelist": false,
+    "blackWhitelist": false,
+    "allowSaving": true,
+    "usePermissionAPI": false
+  },
+  "Whitelist": {
+    "useWhitelist": false,
+    "whitelist": []
+  }
+}

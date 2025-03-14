@@ -2,6 +2,8 @@
   "removed": [
     "fluid:minecraft:lava",
     "fluid:minecraft:water",
+    "fluid:supplementaries:lumisene",
+    "item:amendments:dye_bottle",
     "item:minecraft:bedrock",
     "item:minecraft:end_portal_frame",
     "item:minecraft:vault",
@@ -15,7 +17,6 @@
     "/infested/",
     "/painting/",
     "/spawner/",
-    "/spawn_egg/",
     "/suspicious_stew/"
   ],
 
