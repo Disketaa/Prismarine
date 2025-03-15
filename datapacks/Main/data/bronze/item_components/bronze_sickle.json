@@ -1,0 +1,23 @@
+{
+  "targets": "bronze:bronze_sickle",
+  "components": {
+    "minecraft:attribute_modifiers": {
+      "modifiers": [
+        {
+          "type": "minecraft:generic.attack_damage",
+          "id": "minecraft:base_attack_damage",
+          "amount": 2.5,
+          "operation": "add_value",
+          "slot": "mainhand"
+        },
+        {
+          "type": "minecraft:generic.attack_speed",
+          "id": "minecraft:base_attack_speed",
+          "amount": -2,
+          "operation": "add_value",
+          "slot": "mainhand"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "colored_blocks"
+  ],
+  "additions": [
+    {
+      "items": [
+        "bronze:tin_framed_glass"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:glass"
+        ]
+      }
+    }
+  ]
+}

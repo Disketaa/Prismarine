@@ -65,7 +65,7 @@
     },
     "shift": {
       "scale": 2.0,
-      "xhot": 3,
+      "xhot": 2,
       "yhot": 2,
       "enabled": true
     },

@@ -6,22 +6,22 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:stone_axe",
+          "name": "bronze:bronze_axe",
           "weight": 25
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:stone_hoe",
+          "name": "bronze:bronze_hoe",
           "weight": 25
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:stone_pickaxe",
+          "name": "bronze:bronze_pickaxe",
           "weight": 25
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:stone_shovel",
+          "name": "bronze:bronze_shovel",
           "weight": 25
         },
         {

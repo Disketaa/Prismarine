@@ -1,0 +1,19 @@
+{
+  "add": {
+    "max_damage": 150,
+    "minecraft:tool": {
+      "default_mining_speed": 25,
+      "damage_per_block": 20,
+      "rules": [
+        {
+          "blocks": ["#minecraft:incorrect_for_iron_tool"],
+          "correct_for_drops": false
+        },
+        {
+          "blocks": ["#minecraft:mineable/pickaxe"],
+          "correct_for_drops": true
+        }
+      ]
+    }
+  }
+}

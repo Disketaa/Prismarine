@@ -1,10 +1,10 @@
 {
 	"wakeSpawningRules": {
-		"other_players_wake_rules": "WAKES_AND_SPLASHES",
-		"mobs_wake_rules": "WAKES_AND_SPLASHES",
-		"boat_wake_rules": "WAKES_AND_SPLASHES",
-		"player_wake_rules": "WAKES_AND_SPLASHES",
-		"items_wake_rules": "WAKES_AND_SPLASHES"
+		"other_players_wake_rules": "ONLY_WAKES",
+		"mobs_wake_rules": "ONLY_WAKES",
+		"boat_wake_rules": "ONLY_WAKES",
+		"player_wake_rules": "ONLY_WAKES",
+		"items_wake_rules": "ONLY_WAKES"
 	},
 	"wakesInRunningWater": false,
 	"waveSpeed": 0.949999988079071,

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "bronze:bronze_block"
+  },
+  "result": {
+    "id": "bronze:bronze_trapdoor_block",
+    "count": 7
+  }
+}

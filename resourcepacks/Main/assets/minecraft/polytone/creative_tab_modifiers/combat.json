@@ -1,0 +1,15 @@
+{
+  "targets": [
+    "combat"
+  ],
+  "removals": [
+    {
+      "type": "id_match",
+      "path": "stone_sword"
+    },
+    {
+      "type": "id_match",
+      "path": "stone_axe"
+    }
+  ]
+}
