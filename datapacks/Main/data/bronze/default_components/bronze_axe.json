@@ -1,19 +1,31 @@
 {
-  "targets": "bronze:bronze_shovel",
-  "components": {
+  "add": {
+    "minecraft:tool": {
+      "rules": [
+        {
+          "blocks": "#minecraft:incorrect_for_stone_tool",
+          "correct_for_drops": false
+        },
+        {
+          "blocks": "#minecraft:mineable/axe",
+          "correct_for_drops": true,
+          "speed": 4
+        }
+      ]
+    },
     "minecraft:attribute_modifiers": {
       "modifiers": [
         {
           "type": "minecraft:generic.attack_damage",
           "id": "minecraft:base_attack_damage",
-          "amount": 3.25,
+          "amount": 7,
           "operation": "add_value",
           "slot": "mainhand"
         },
         {
           "type": "minecraft:generic.attack_speed",
           "id": "minecraft:base_attack_speed",
-          "amount": -2.9,
+          "amount": -3,
           "operation": "add_value",
           "slot": "mainhand"
         }

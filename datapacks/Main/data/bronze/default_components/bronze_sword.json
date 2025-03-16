@@ -1,19 +1,26 @@
 {
-  "targets": "bronze:bronze_sickle",
-  "components": {
+  "add": {
+    "minecraft:tool": {
+      "rules": [
+        {
+          "blocks": "#minecraft:sword_efficient",
+          "speed": 1.5
+        }
+      ]
+    },
     "minecraft:attribute_modifiers": {
       "modifiers": [
         {
           "type": "minecraft:generic.attack_damage",
           "id": "minecraft:base_attack_damage",
-          "amount": 2.5,
+          "amount": 4,
           "operation": "add_value",
           "slot": "mainhand"
         },
         {
           "type": "minecraft:generic.attack_speed",
           "id": "minecraft:base_attack_speed",
-          "amount": -2,
+          "amount": -2.2,
           "operation": "add_value",
           "slot": "mainhand"
         }

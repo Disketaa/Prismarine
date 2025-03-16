@@ -7,7 +7,7 @@
       "items": [
         "coppernugget:copper_nugget"
       ],
-      "before": false,
+      "before": true,
       "predicate": {
         "type": "items_match",
         "items": [

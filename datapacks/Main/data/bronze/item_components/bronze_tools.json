@@ -9,6 +9,6 @@
     "supplementaries:wrench"
   ],
   "components": {
-    "minecraft:max_damage": 155
+    "minecraft:max_damage": 150
   }
 }

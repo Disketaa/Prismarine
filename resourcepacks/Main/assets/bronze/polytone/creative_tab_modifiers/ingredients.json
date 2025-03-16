@@ -5,21 +5,33 @@
   "additions": [
     {
       "items": [
-        "bronze:raw_tin",
-        "bronze:bronze_blend"
+        "bronze:raw_tin"
       ],
+      "before": true,
       "predicate": {
         "type": "items_match",
         "items": [
-          "minecraft:raw_iron"
+          "minecraft:raw_copper"
         ]
       }
     },
     {
       "items": [
-        "bronze:tin_ingot",
+        "bronze:tin_ingot"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:copper_ingot"
+        ]
+      }
+    },
+    {
+      "items": [
         "bronze:bronze_ingot"
       ],
+      "before": true,
       "predicate": {
         "type": "items_match",
         "items": [
@@ -31,10 +43,22 @@
       "items": [
         "bronze:bronze_nugget"
       ],
+      "before": true,
       "predicate": {
         "type": "items_match",
         "items": [
           "minecraft:iron_nugget"
+        ]
+      }
+    },
+    {
+      "items": [
+        "bronze:bronze_blend"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:netherite_ingot"
         ]
       }
     }
