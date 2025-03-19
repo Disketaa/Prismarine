@@ -1,8 +1,0 @@
-{
-  "remove_tweaks_rp": true,
-  "remove_knows_rp": true,
-  "remove_repair_changes": true,
-  "remove_durability_changes": true,
-  "remove_loot_table_changes": false,
-  "bypass_crash": true
-}

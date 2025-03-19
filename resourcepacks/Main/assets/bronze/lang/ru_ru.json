@@ -55,8 +55,9 @@
   "tag.item.c.raw_tin": "Рудное олово",
   "tag.item.c.shovels": "Лопаты",
   "tag.item.c.swords": "Мечи",
-  "tag.item.bronze.bronze_smeltables": "Переплавляемая бронза",
   "tag.item.bronze.bronze_blastables": "Выплавляемая бронза",
+  "tag.item.bronze.bronze_smeltables": "Переплавляемая бронза",
+  "tag.item.bronze.bronze_tools": "Бронзовые инструменты",
   "trim_material.bronze.bronze": "Бронзовая",
   "trim_material.bronze.tin": "Оловянная"
 }

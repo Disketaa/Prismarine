@@ -109,13 +109,13 @@
     "banner_pattern_tooltip": true,
     "paintings_tooltip": true,
     "sherds_tooltip": true,
-    "tooltip_image_size": 80,
+    "tooltip_image_size": 32,
     "mob_head_shaders": true,
     "send_chat_on_death": true,
     "colored_maps": {
       "tinted_blocks_on_maps": true,
       "tall_grass_color": true,
-      "accurate_colors": false
+      "accurate_colors": true
     }
   },
   "items": {

@@ -1,7 +1,0 @@
-{
-  "keys": [
-    "minecraft:bow",
-    "minecraft:crossbow"
-  ],
-  "soundEvent": "minecraft:item.axe.strip"
-}

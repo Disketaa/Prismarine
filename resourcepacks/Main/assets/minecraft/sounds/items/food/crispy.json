@@ -1,0 +1,16 @@
+{
+  "keys": [
+    "#c:foods/cookie",
+    "farmersdelight:pie_crust",
+    "farmersdelight:stuffed_potato",
+    "minecraft:dried_kelp",
+    "moredelight:toast",
+    "moredelight:toast_with_chocolate",
+    "moredelight:toast_with_egg",
+    "moredelight:toast_with_glow_berries",
+    "moredelight:toast_with_honey",
+    "moredelight:toast_with_sweet_berries"
+  ],
+  "soundEvent": "sounds:block.oak_log.hit",
+  "pitch": 2
+}

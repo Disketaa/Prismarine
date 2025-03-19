@@ -1,0 +1,26 @@
+{
+  "keys": [
+    "#c:foods/contain_bread",
+    "farmersdelight:cabbage_rolls",
+    "farmersdelight:chicken_sandwich",
+    "farmersdelight:cod_roll",
+    "farmersdelight:cooked_rice",
+    "farmersdelight:egg_sandwich",
+    "farmersdelight:fried_rice",
+    "farmersdelight:fruit_salad",
+    "farmersdelight:hamburger",
+    "farmersdelight:horse_feed",
+    "farmersdelight:kelp_roll",
+    "farmersdelight:kelp_roll_slice",
+    "farmersdelight:mixed_salad",
+    "farmersdelight:mutton_wrap",
+    "farmersdelight:nether_salad",
+    "farmersdelight:salmon_roll",
+    "farmersdelight:stuffed_pumpkin",
+    "moredelight:bread_slice",
+    "moredelight:chicken_salad",
+    "moredelight:potato_salad"
+  ],
+  "pitch": 1.5,
+  "soundEvent": "minecraft:block.crop.break"
+}

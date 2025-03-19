@@ -1,8 +1,0 @@
-{
-  "keys": [
-    "#minecraft:arrows"
-  ],
-  "pitch": 2.0,
-  "soundEvent": "minecraft:item.axe.strip",
-  "volume": 0.3
-}

@@ -1,0 +1,22 @@
+{
+  "keys": [
+    "farmersdelight:dumplings",
+    "farmersdelight:fried_egg",
+    "farmersdelight:honey_glazed_ham",
+    "farmersdelight:melon_popsicle",
+    "farmersdelight:raw_pasta",
+    "farmersdelight:rotten_tomato",
+    "farmersdelight:squid_ink_pasta",
+    "farmersdelight:wheat_dough",
+    "minecraft:fermented_spider_eye",
+    "minecraft:glistering_melon_slice",
+    "minecraft:honey_bottle",
+    "minecraft:poisonous_potato",
+    "minecraft:rotten_flesh",
+    "minecraft:spider_eye",
+    "moredelight:chocolate_popsicle",
+    "moredelight:mashed_potatoes",
+    "moredelight:omelette"
+  ],
+  "soundEvent": "minecraft:block.slime_block.hit"
+}

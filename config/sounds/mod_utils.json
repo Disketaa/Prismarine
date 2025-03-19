@@ -1,3 +1,4 @@
 {
-  "hideSoundsButtonInSoundMenu": true
+	"hideSoundsButtonInSoundMenu": true,
+	"enableVerboseSoundTypeLogging": false
 }

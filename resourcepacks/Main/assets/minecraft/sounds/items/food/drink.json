@@ -1,0 +1,16 @@
+{
+  "keys": [
+    "#c:foods/milk",
+    "farmersdelight:apple_cider",
+    "farmersdelight:glow_berry_custard",
+    "farmersdelight:hot_cocoa",
+    "farmersdelight:melon_juice",
+    "minecraft:dragon_breath",
+    "minecraft:lingering_potion",
+    "minecraft:ominous_bottle",
+    "minecraft:potion",
+    "minecraft:splash_potion",
+    "supplementaries:lumisene_bottle"
+  ],
+  "soundEvent": "minecraft:item.bottle.fill"
+}

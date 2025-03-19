@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+          {"model": "block/leaves"},
+          {"model": "block/leaves", "y": 90},
+          {"model": "block/leaves", "y": 180},
+          {"model": "block/leaves", "y": 270},
+          {"model": "block/leaves", "x": 180},
+          {"model": "block/leaves", "x": 90, "y": 90},
+          {"model": "block/leaves", "x": 180, "y": 180},
+          {"model": "block/leaves", "x": 270, "y": 270}
+      ]
+    }
+  }
+}

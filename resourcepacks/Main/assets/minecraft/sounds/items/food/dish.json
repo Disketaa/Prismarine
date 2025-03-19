@@ -1,0 +1,18 @@
+{
+  "keys": [
+    "farmersdelight:mushroom_rice",
+    "farmersdelight:ratatouille",
+    "farmersdelight:roasted_mutton_crops",
+    "farmersdelight:grilled_salmon",
+    "farmersdelight:bacon_and_eggs",
+    "farmersdelight:vegetable_noodles",
+    "farmersdelight:pasta_with_meatballs",
+    "farmersdelight:pasta_with_mutton_crop",
+    "farmersdelight:roast_chicken",
+    "farmersdelight:shepherds_pie",
+    "farmersdelight:steak_and_potatoes",
+    "farmersdelight:stuffed_pumpkin"
+  ],
+  "pitch": 2,
+  "soundEvent": "minecraft:block.wood.break"
+}
