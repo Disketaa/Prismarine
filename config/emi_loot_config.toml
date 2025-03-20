@@ -15,8 +15,8 @@ skippedKeys = [
 ]
 chestLootAlwaysStackSame = false
 mobLootIncludeDirectDrops = true
-chanceDecimalPlaces = 0
-conditionStyle = "tooltip"
+chanceDecimalPlaces = 2
+conditionStyle = "plain"
 
 [debugModes]
 block = false

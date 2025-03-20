@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "#c:foods/contains_bread",
+    "#c:foods/raw_fish",
+    "#c:seeds",
+    "minecraft:seagrass"
+  ]
+}

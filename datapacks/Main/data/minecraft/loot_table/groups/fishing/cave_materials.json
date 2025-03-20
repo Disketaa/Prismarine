@@ -21,6 +21,11 @@
         },
         {
           "type": "minecraft:item",
+          "name": "bronze:raw_tin",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:raw_iron",
           "weight": 10
         },
