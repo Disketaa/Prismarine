@@ -1,0 +1,6 @@
+{
+  "keys": [
+    "#arts_and_crafts:paintbrushes"
+  ],
+  "soundEvent": "arts_and_crafts:item.paintbrush.paint"
+}

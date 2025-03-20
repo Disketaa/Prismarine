@@ -1,0 +1,7 @@
+{
+  "keys": [
+    "minecraft:recovery_compass"
+  ],
+  "soundEvent": "minecraft:block.sculk_catalyst.step",
+  "pitch": 1.75
+}

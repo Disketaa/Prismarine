@@ -1,0 +1,6 @@
+{
+  "keys": [
+    "minecraft:goat_horn"
+  ],
+  "soundEvent": "minecraft:entity.goat.ram_impact"
+}

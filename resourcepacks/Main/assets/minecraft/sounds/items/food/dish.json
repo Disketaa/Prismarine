@@ -1,18 +1,25 @@
 {
   "keys": [
-    "farmersdelight:mushroom_rice",
-    "farmersdelight:ratatouille",
-    "farmersdelight:roasted_mutton_crops",
-    "farmersdelight:grilled_salmon",
     "farmersdelight:bacon_and_eggs",
-    "farmersdelight:vegetable_noodles",
+    "farmersdelight:grilled_salmon",
+    "farmersdelight:mushroom_rice",
     "farmersdelight:pasta_with_meatballs",
     "farmersdelight:pasta_with_mutton_crop",
+    "farmersdelight:ratatouille",
     "farmersdelight:roast_chicken",
+    "farmersdelight:roasted_mutton_crops",
     "farmersdelight:shepherds_pie",
     "farmersdelight:steak_and_potatoes",
-    "farmersdelight:stuffed_pumpkin"
+    "farmersdelight:stuffed_pumpkin",
+    "farmersdelight:vegetable_noodles",
+    "moredelight:cooked_rice_with_beef",
+    "moredelight:cooked_rice_with_chicken_cuts",
+    "moredelight:cooked_rice_with_porkchop",
+    "moredelight:creamy_pasta_with_ham",
+    "moredelight:diced_potatoes_with_beef",
+    "moredelight:diced_potatoes_with_chicken_cuts",
+    "moredelight:diced_potatoes_with_porkchop"
   ],
-  "pitch": 2,
-  "soundEvent": "minecraft:block.wood.break"
+  "soundEvent": "minecraft:block.wood.break",
+  "pitch": 2
 }

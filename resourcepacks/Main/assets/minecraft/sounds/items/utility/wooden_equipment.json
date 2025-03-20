@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "keys": [
+    "#minecraft:arrows",
+    "minecraft:bow",
+    "minecraft:carrot_on_a_stick",
+    "minecraft:crossbow",
+    "minecraft:debug_stick",
+    "minecraft:fishing_rod",
+    "minecraft:stick",
+    "minecraft:warped_fungus_on_a_stick",
+    "minecraft:wooden_axe",
+    "minecraft:wooden_hoe",
+    "minecraft:wooden_pickaxe",
+    "minecraft:wooden_shovel",
+    "minecraft:wooden_sword",
+    "moredelight:wooden_knife",
+    "supplementaries:lunch_basket",
+    "supplementaries:slingshot"
+  ],
+  "soundEvent": "minecraft:item.axe.strip"
+}

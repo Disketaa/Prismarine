@@ -1,5 +1,6 @@
 {
   "keys": [
+    "farmersdelight:dog_food",
     "farmersdelight:dumplings",
     "farmersdelight:fried_egg",
     "farmersdelight:honey_glazed_ham",
@@ -16,7 +17,8 @@
     "minecraft:spider_eye",
     "moredelight:chocolate_popsicle",
     "moredelight:mashed_potatoes",
-    "moredelight:omelette"
+    "moredelight:omelette",
+    "supplementaries:pancake"
   ],
   "soundEvent": "minecraft:block.slime_block.hit"
 }

@@ -1,0 +1,6 @@
+{
+  "keys": [
+    "supplementaries:soap"
+  ],
+  "soundEvent": "minecraft:block.slime_block.hit"
+}

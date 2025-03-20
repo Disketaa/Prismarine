@@ -1,0 +1,19 @@
+{
+  "keys": [
+    "farmersdelight:golden_knife",
+    "minecraft:clock",
+    "minecraft:golden_axe",
+    "minecraft:golden_boots",
+    "minecraft:golden_chestplate",
+    "minecraft:golden_helmet",
+    "minecraft:golden_hoe",
+    "minecraft:golden_horse_armor",
+    "minecraft:golden_leggings",
+    "minecraft:golden_pickaxe",
+    "minecraft:golden_shovel",
+    "minecraft:golden_sword",
+    "minecraft:spyglass",
+    "supplementaries:key"
+  ],
+  "soundEvent": "minecraft:item.armor.equip_gold"
+}
