@@ -1,0 +1,12 @@
+{
+  "asset_name": "bronze",
+  "description": {
+    "color": "#E0B358",
+    "translate": "trim_material.minecraft.bronze"
+  },
+  "ingredient": "bronze:bronze_ingot",
+  "item_model_index": 2.0,
+  "override_armor_materials": {
+    "minecraft:diamond": "diamond_darker"
+  }
+}

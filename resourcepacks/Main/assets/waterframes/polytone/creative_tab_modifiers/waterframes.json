@@ -1,0 +1,11 @@
+{
+  "targets": [
+    "waterframes:tab"
+  ],
+  "removals": [
+    {
+      "type": "id_match",
+      "namespace": "waterframes"
+    }
+  ]
+}

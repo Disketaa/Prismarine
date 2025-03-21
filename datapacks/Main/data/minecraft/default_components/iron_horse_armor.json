@@ -1,0 +1,22 @@
+{
+  "add": {
+    "minecraft:attribute_modifiers": {
+      "modifiers": [
+        {
+          "type": "minecraft:generic.armor",
+          "id": "minecraft:generic.armor",
+          "amount": 5,
+          "operation": "add_value",
+          "slot": "body"
+        },
+        {
+          "type": "minecraft:generic.movement_speed",
+          "id": "minecraft:base.movement_speed",
+          "amount": -0.015,
+          "operation": "add_multiplied_base",
+          "slot": "body"
+        }
+      ]
+    }
+  }
+}

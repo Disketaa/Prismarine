@@ -1,0 +1,19 @@
+{
+  "targets": [
+    "tools_and_utilities"
+  ],
+  "additions": [
+    {
+      "items": [
+        "waterframes:remote"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:spyglass"
+        ]
+      }
+    }
+  ]
+}

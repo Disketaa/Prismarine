@@ -1,0 +1,23 @@
+{
+  "add": {
+    "max_damage": 105,
+    "minecraft:attribute_modifiers": {
+      "modifiers": [
+        {
+          "type": "minecraft:generic.armor",
+          "id": "minecraft:generic.armor",
+          "amount": 2,
+          "operation": "add_value",
+          "slot": "head"
+        },
+        {
+          "type": "minecraft:generic.movement_speed",
+          "id": "minecraft:base.movement_speed",
+          "amount": -0.015,
+          "operation": "add_multiplied_base",
+          "slot": "head"
+        }
+      ]
+    }
+  }
+}

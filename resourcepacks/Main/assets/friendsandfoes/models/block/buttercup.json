@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross_tint",
+  "textures": {
+    "cross": "friendsandfoes:block/buttercup",
+    "cross_tint": "friendsandfoes:block/buttercup_overlay"
+  }
+}
