@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "|": {
+      "tag": "minecraft:wooden_fences"
+    },
+    "-": {
+      "item": "minecraft:stick"
+    },
+    "E": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "---",
+    "|E|",
+    "###"
+  ],
+  "result": {
+    "id": "sawmill:sawmill"
+  }
+}

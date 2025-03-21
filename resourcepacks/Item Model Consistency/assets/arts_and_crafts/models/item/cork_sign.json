@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_sign",
+  "textures": {
+    "all": "arts_and_crafts:entity/signs/cork"
+  }
+}
