@@ -2,11 +2,21 @@
   "targets": [
     "combat"
   ],
-  "removals": [
+  "additions": [
     {
-      "type": "id_match",
-      "path": "stone_sword"
-    },
+      "items": [
+        "minecraft:stone_sword"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:mace"
+        ]
+      }
+    }
+  ],
+  "removals": [
     {
       "type": "id_match",
       "path": "stone_axe"

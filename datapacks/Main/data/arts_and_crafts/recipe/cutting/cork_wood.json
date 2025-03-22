@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "arts_and_crafts:cork_wood"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "arts_and_crafts:stripped_cork_wood",
+        "count": 1
+      }
+    },
+    {
+      "item": {
+        "id": "farmersdelight:tree_bark",
+        "count": 1
+      }
+    }
+  ],
+  "sound": {
+    "sound_id": "minecraft:item.axe.strip"
+  },
+  "tool": {
+    "fabric:type": "farmersdelight:item_ability",
+    "action": "axe_strip"
+  }
+}

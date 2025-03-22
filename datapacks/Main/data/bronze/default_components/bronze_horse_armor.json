@@ -4,15 +4,15 @@
       "modifiers": [
         {
           "type": "minecraft:generic.armor",
-          "id": "minecraft:generic.armor",
+          "id": "bronze:armor.horse_armor",
           "amount": 4,
           "operation": "add_value",
           "slot": "body"
         },
         {
           "type": "minecraft:generic.movement_speed",
-          "id": "minecraft:base.movement_speed",
-          "amount": -0.0125,
+          "id": "bronze:armor.horse_armor",
+          "amount": -0.0375,
           "operation": "add_multiplied_base",
           "slot": "body"
         }

@@ -5,14 +5,14 @@
       "modifiers": [
         {
           "type": "minecraft:generic.armor",
-          "id": "minecraft:generic.armor",
+          "id": "bronze:armor.boots",
           "amount": 1,
           "operation": "add_value",
           "slot": "feet"
         },
         {
           "type": "minecraft:generic.movement_speed",
-          "id": "minecraft:base.movement_speed",
+          "id": "bronze:armor.boots",
           "amount": -0.0125,
           "operation": "add_multiplied_base",
           "slot": "feet"

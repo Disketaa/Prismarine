@@ -4,17 +4,17 @@
       "modifiers": [
         {
           "type": "minecraft:generic.armor",
-          "id": "minecraft:generic.armor",
+          "id": "minecraft:armor.chestplate",
           "amount": 6,
           "operation": "add_value",
-          "slot": "body"
+          "slot": "chest"
         },
         {
           "type": "minecraft:generic.movement_speed",
-          "id": "minecraft:base.movement_speed",
+          "id": "minecraft:armor.chestplate",
           "amount": -0.015,
           "operation": "add_multiplied_base",
-          "slot": "body"
+          "slot": "chest"
         }
       ]
     }

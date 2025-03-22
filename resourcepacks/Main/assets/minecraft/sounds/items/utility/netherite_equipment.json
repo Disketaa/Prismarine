@@ -10,7 +10,8 @@
     "minecraft:netherite_leggings",
     "minecraft:netherite_pickaxe",
     "minecraft:netherite_shovel",
-    "minecraft:netherite_sword"
+    "minecraft:netherite_sword",
+    "netherite_horse_armor:netherite_horse_armor"
   ],
   "soundEvent": "minecraft:item.armor.equip_netherite"
 }

@@ -1,3 +1,4 @@
 {
-  "entity.minecraft.villager.carpenter": "Плотник"
+  "entity.minecraft.villager.carpenter": "Плотник",
+  "sawmill.category.wood_cutting": "Обработка древесины"
 }
