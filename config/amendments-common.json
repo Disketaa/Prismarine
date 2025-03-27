@@ -29,15 +29,15 @@
     "connect_to_fences": true
   },
   "tripwire_hook": {
-    "tool_hook": true
+    "tool_hook": false
   },
   "carpets": {
-    "carpeted_stairs": true,
-    "carpeted_slabs": true
+    "carpeted_stairs": false,
+    "carpeted_slabs": false
   },
   "cake": {
-    "double_cake": true,
-    "directional_cake": true
+    "double_cake": false,
+    "directional_cake": false
   },
   "mob_head": {
     "skull_piles": true,
@@ -63,7 +63,7 @@
     "id_whitelist": [
       "enlightened_end:xenon_lantern"
     ],
-    "falling_lanterns": "ON"
+    "falling_lanterns": "OFF"
   },
   "bell": {
     "chain_ringing": true,
@@ -76,7 +76,7 @@
     "dye_blocks": false
   },
   "torch": {
-    "torch_fire": true,
+    "torch_fire": false,
     "torch_fire_offhand": false,
     "torch_fire_duration": 2
   },

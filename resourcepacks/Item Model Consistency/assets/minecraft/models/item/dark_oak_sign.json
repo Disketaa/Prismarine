@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/template_sign",
   "textures": {
-    "all": "minecraft:entity/signs/dark_oak"
+    "all": "minecraft:block/entity/signs/dark_oak"
   }
 }

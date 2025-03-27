@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/template_sign",
   "textures": {
-    "all": "minecraft:entity/signs/spruce"
+    "all": "minecraft:block/entity/signs/spruce"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/template_hanging_sign",
   "textures": {
-    "all": "minecraft:entity/signs/hanging/crimson"
+    "all": "minecraft:block/entity/signs/hanging/crimson"
   }
 }

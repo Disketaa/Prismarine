@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/template_sign",
   "textures": {
-    "all": "minecraft:entity/signs/acacia"
+    "all": "minecraft:block/entity/signs/acacia"
   }
 }

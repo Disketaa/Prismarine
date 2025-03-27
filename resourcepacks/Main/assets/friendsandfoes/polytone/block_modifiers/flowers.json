@@ -1,8 +1,0 @@
-{
-  "targets": [
-    "friendsandfoes:buttercup"
-  ],
-  "colormap": {
-    "1": "minecraft:grass_color"
-  }
-}

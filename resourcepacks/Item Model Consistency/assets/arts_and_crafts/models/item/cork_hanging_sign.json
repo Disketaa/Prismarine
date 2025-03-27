@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/template_hanging_sign",
   "textures": {
-    "all": "arts_and_crafts:entity/signs/hanging/cork"
+    "all": "arts_and_crafts:block/entity/signs/hanging/cork"
   }
 }

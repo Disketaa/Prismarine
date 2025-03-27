@@ -46,7 +46,7 @@
     },
     "lantern_item_size": 0.625,
     "lantern_item_holding": true,
-    "lantern_item_holding_up": false
+    "lantern_item_holding_up": true
   },
   "cauldron": {
     "potion_texture": true
