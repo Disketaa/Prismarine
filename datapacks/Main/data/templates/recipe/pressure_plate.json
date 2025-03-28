@@ -2,17 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "minecraft:string"
-    },
-    "/": {
-      "item": "minecraft:stick"
+      "item": "templates:cube"
     }
   },
   "pattern": [
-    "# ",
-    "//"
+    "##"
   ],
   "result": {
-    "id": "templates:pressure_plate"
+    "id": "templates:pressure_plate",
+    "count": 2
   }
 }

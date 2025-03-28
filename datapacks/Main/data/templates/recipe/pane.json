@@ -2,16 +2,15 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "minecraft:string"
+      "item": "templates:cube"
     },
-    "/": {
-      "item": "minecraft:stick"
+    "@": {
+      "item": "minecraft:glass"
     }
   },
   "pattern": [
-    "# #",
-    "///",
-    "///"
+    "#@#",
+    "#@#"
   ],
   "result": {
     "id": "templates:pane",

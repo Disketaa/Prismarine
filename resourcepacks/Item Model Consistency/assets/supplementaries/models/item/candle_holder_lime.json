@@ -1,0 +1,7 @@
+{
+  "parent": "supplementaries:item/template_candle_holder",
+  "textures": {
+    "all": "minecraft:block/lime_candle",
+    "2": "supplementaries:block/candle_holder"
+  }
+}

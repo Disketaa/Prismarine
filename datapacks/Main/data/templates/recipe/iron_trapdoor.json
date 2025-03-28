@@ -1,23 +1,14 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "#": {
-      "item": "minecraft:string"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "templates:trapdoor"
     },
-    "/": {
-      "item": "minecraft:stick"
-    },
-    "-": {
+    {
       "item": "minecraft:iron_ingot"
     }
-  },
-  "pattern": [
-    "///",
-    "///",
-    "#-#"
   ],
   "result": {
-    "id": "templates:iron_trapdoor",
-    "count": 3
+    "id": "templates:iron_trapdoor"
   }
 }

@@ -5,12 +5,15 @@
     "minecraft:iron_trapdoor",
     "minecraft:heavy_weighted_pressure_plate",
     "minecraft:iron_bars",
+    "supplementaries:iron_gate",
     "minecraft:smithing_table",
     "minecraft:cauldron",
     "#minecraft:anvil",
     "minecraft:hopper",
+    "supplementaries:cannonball",
     "minecraft:lantern",
     "minecraft:soul_lantern",
+    "supplementaries:goblet",
     "minecraft:tripwire_hook",
     "minecraft:rail",
     "minecraft:activator_rail",
@@ -18,6 +21,7 @@
     "minecraft:hopper_minecart",
     "minecraft:minecart",
     "minecraft:chain",
+    "supplementaries:wind_vane",
     "#minecraft:iron_smeltables"
   ]
 }

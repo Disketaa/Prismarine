@@ -2,18 +2,15 @@
   "targets": [
     "functional_blocks"
   ],
-  "additions": [
+  "removals": [
     {
+      "type": "items_match",
       "items": [
         "farmersdelight:rope"
-      ],
-      "predicate": {
-        "type": "items_match",
-        "items": [
-          "minecraft:chain"
-        ]
-      }
-    },
+      ]
+    }
+  ],
+  "additions": [
     {
       "items": [
         "farmersdelight:stove"

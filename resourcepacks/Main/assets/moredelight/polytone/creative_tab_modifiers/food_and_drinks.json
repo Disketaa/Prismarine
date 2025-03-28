@@ -104,10 +104,11 @@
       "items": [
         "moredelight:omelette"
       ],
+      "before": true,
       "predicate": {
         "type": "items_match",
         "items": [
-          "farmersdelight:bacon_and_eggs"
+          "minecraft:cookie"
         ]
       }
     },

@@ -2,19 +2,15 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "minecraft:string"
-    },
-    "/": {
-      "item": "minecraft:stick"
+      "item": "templates:cube"
     }
   },
   "pattern": [
-    "///",
-    "///",
-    "# #"
+    "##",
+    "##"
   ],
   "result": {
     "id": "templates:trapdoor",
-    "count": 4
+    "count": 3
   }
 }

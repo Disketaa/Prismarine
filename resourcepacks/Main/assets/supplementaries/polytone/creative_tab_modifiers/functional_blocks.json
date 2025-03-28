@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "redstone_blocks"
+  ],
+  "additions": [
+    {
+      "items": [
+        "supplementaries:cannonball"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "supplementaries:cannon"
+        ]
+      }
+    }
+  ]
+}

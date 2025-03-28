@@ -1,16 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "#": {
-      "item": "minecraft:string"
-    },
-    "/": {
-      "item": "minecraft:stick"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "templates:cube"
     }
-  },
-  "pattern": [
-    "#",
-    "/"
   ],
   "result": {
     "id": "templates:button"

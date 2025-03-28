@@ -2,18 +2,17 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "minecraft:string"
+      "item": "templates:cube"
     },
-    "/": {
-      "item": "minecraft:stick"
+    "-": {
+      "tag": "minecraft:wool_carpets"
     }
   },
   "pattern": [
-    "##",
-    "//"
+    "#",
+    "-"
   ],
   "result": {
-    "id": "templates:carpet",
-    "count": 3
+    "id": "templates:carpet"
   }
 }

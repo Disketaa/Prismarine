@@ -1,6 +1,8 @@
 {
   "values": [
     "minecraft:gold_block",
+    "supplementaries:gold_door",
+    "supplementaries:gold_trapdoor",
     "minecraft:light_weighted_pressure_plate",
     "#minecraft:gold_smeltables"
   ]

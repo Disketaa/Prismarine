@@ -2,21 +2,6 @@
   "targets": [
     "food_and_drinks"
   ],
-  "removals": [
-    {
-      "type": "items_match",
-      "items": [
-        "minecraft:beetroot_soup",
-        "minecraft:cake",
-        "minecraft:cookie",
-        "minecraft:mushroom_stew",
-        "minecraft:pumpkin_pie",
-        "minecraft:rabbit_stew",
-        "minecraft:rotten_flesh",
-        "minecraft:spider_eye"
-      ]
-    }
-  ],
   "additions": [
     {
       "items": [
@@ -63,19 +48,6 @@
         "type": "items_match",
         "items": [
           "minecraft:dried_kelp"
-        ]
-      }
-    },
-    {
-      "items": [
-        "minecraft:rotten_flesh",
-        "minecraft:spider_eye"
-      ],
-      "before": true,
-      "predicate": {
-        "type": "items_match",
-        "items": [
-          "minecraft:beef"
         ]
       }
     },
@@ -149,42 +121,66 @@
         "farmersdelight:roast_chicken",
         "farmersdelight:shepherds_pie",
         "farmersdelight:honey_glazed_ham",
-        "farmersdelight:apple_pie",
-        "farmersdelight:sweet_berry_cheesecake",
-        "farmersdelight:chocolate_pie",
-        "minecraft:cake",
-        "farmersdelight:apple_pie_slice",
-        "farmersdelight:sweet_berry_cheesecake_slice",
-        "farmersdelight:chocolate_pie_slice",
-        "farmersdelight:cake_slice",
-        "farmersdelight:pie_crust",
-        "minecraft:pumpkin_pie",
-        "minecraft:cookie",
-        "farmersdelight:sweet_berry_cookie",
-        "farmersdelight:honey_cookie",
         "farmersdelight:fruit_salad",
         "farmersdelight:mixed_salad",
         "farmersdelight:nether_salad",
         "farmersdelight:ratatouille",
         "farmersdelight:tomato_sauce",
-        "minecraft:mushroom_stew",
         "farmersdelight:beef_stew",
-        "minecraft:rabbit_stew",
         "farmersdelight:fish_stew",
         "farmersdelight:baked_cod_stew",
         "farmersdelight:horse_feed",
-        "farmersdelight:dog_food",
+        "farmersdelight:dog_food"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:bread"
+        ]
+      }
+    },
+    {
+      "items": [
+        "farmersdelight:apple_pie",
+        "farmersdelight:sweet_berry_cheesecake",
+        "farmersdelight:chocolate_pie",
+        "farmersdelight:cake_slice",
+        "farmersdelight:apple_pie_slice",
+        "farmersdelight:sweet_berry_cheesecake_slice",
+        "farmersdelight:chocolate_pie_slice",
+        "farmersdelight:pie_crust"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:cake"
+        ]
+      }
+    },
+    {
+      "items": [
         "farmersdelight:bone_broth",
         "farmersdelight:pumpkin_soup",
         "farmersdelight:vegetable_soup",
-        "minecraft:beetroot_soup",
         "farmersdelight:chicken_soup",
         "farmersdelight:noodle_soup"
       ],
       "predicate": {
         "type": "items_match",
         "items": [
-          "minecraft:bread"
+          "minecraft:beetroot_soup"
+        ]
+      }
+    },
+    {
+      "items": [
+        "farmersdelight:sweet_berry_cookie",
+        "farmersdelight:honey_cookie"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:cookie"
         ]
       }
     },
