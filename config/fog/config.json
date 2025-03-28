@@ -1,12 +1,6 @@
 {
 	"disableMod": false,
-	"disabledBiomes": [
-		"minecraft:nether_wastes",
-		"minecraft:crimson_forest",
-		"minecraft:warped_forest",
-		"minecraft:soul_sand_valley",
-		"minecraft:basalt_deltas"
-	],
+	"disabledBiomes": [],
 	"disableRaininessEffect": false,
 	"disableUndergroundFogMultiplier": false,
 	"disableBiomeFogColour": false,

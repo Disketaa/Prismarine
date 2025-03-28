@@ -5,6 +5,7 @@
   "additions": [
     {
       "items": [
+        "templates:cube",
         "templates:stairs",
         "templates:slab",
         "templates:vertical_slab",

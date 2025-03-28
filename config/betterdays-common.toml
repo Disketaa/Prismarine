@@ -110,7 +110,7 @@
 			#sleepingPlayers -> the number of players in the current dimension who were sleeping.
 			#totalPlayers -> the number of players in the current dimension (spectators are not counted).
 			#sleepingPercentage -> the percentage of players in the current dimension who were sleeping (does not include % symbol).
-			message = "§e§oTempus fugit!"
+			message = ""
 			#Sets where this message appears.
 			#Allowed Values: SYSTEM, GAME_INFO
 			type = "GAME_INFO"
@@ -126,7 +126,7 @@
 			#sleepingPlayers -> the number of players in the current dimension who are sleeping.
 			#totalPlayers -> the number of players in the current dimension (spectators are not counted).
 			#sleepingPercentage -> the percentage of players in the current dimension who are sleeping (does not include % symbol).
-			message = "${player} is now sleeping. [${sleepingPlayers}/${totalPlayers}]"
+			message = "${player} ложится спать. [${sleepingPlayers}/${totalPlayers}]"
 			#Sets where this message appears.
 			#Allowed Values: SYSTEM, GAME_INFO
 			type = "GAME_INFO"
@@ -141,7 +141,7 @@
 			#sleepingPlayers -> the number of players in the current dimension who are sleeping.
 			#totalPlayers -> the number of players in the current dimension (spectators are not counted).
 			#sleepingPercentage -> the percentage of players in the current dimension who are sleeping (does not include % symbol).
-			message = "${player} has left their bed. [${sleepingPlayers}/${totalPlayers}]"
+			message = "${player} встал с кровати. [${sleepingPlayers}/${totalPlayers}]"
 			#Sets where this message appears.
 			#Allowed Values: SYSTEM, GAME_INFO
 			type = "GAME_INFO"
