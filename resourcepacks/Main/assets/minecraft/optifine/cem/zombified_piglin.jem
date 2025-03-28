@@ -1,6 +1,6 @@
 {
 	"credit": "Created by FreshLX for Fresh Animations",
-	"textureSize": [64, 64],
+	"textureSize": [128, 64],
 	"models": [
 		{
 			"part": "head",
@@ -123,7 +123,8 @@
 					"invertAxis": "xy",
 					"translate": [0, 24, 0],
 					"boxes": [
-						{"coordinates": [-5, 0, -4, 10, 8, 8], "textureOffset": [0, 0]}
+						{"coordinates": [-5, 0, -4, 10, 8, 8], "textureOffset": [0, 0]},
+						{"coordinates": [-5, 0, -4, 10, 8, 8], "textureOffset": [64, 0], "sizeAdd": 0.25}
 					],
 					"submodels": [
 						{
@@ -131,7 +132,8 @@
 							"invertAxis": "xy",
 							"translate": [-5, 5.5, -0.5],
 							"boxes": [
-								{"coordinates": [-0.75, -4.5, -2, 1, 5, 4], "textureOffset": [51, 6]}
+								{"coordinates": [-0.75, -4.5, -2, 1, 5, 4], "textureOffset": [51, 6]},
+								{"coordinates": [-1, -5, 0.5, 2, 2, 1], "textureOffset": [66, 5]}
 							]
 						},
 						{
@@ -257,6 +259,38 @@
 			"boxes": [
 				{"coordinates": [-4, 12, -2, 8, 12, 4], "textureOffset": [16, 16]},
 				{"coordinates": [-4, 12, -2, 8, 12, 4], "textureOffset": [16, 32], "sizeAdd": 0.25}
+			],
+			"submodels": [
+				{
+					"id": "spore_backpack",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{"coordinates": [-4, 15, 2, 8, 9, 7], "textureOffset": [98, 48]}
+					],
+					"submodels": [
+						{
+							"id": "shroom1",
+							"invertAxis": "xy",
+							"translate": [-2, 25.25, 7],
+							"rotate": [0, -90, 0],
+							"boxes": [
+								{"coordinates": [-2, -0.25, -2, 4, 3, 4], "textureOffset": [112, 29]},
+								{"coordinates": [-1, -2.25, -1, 2, 3, 2], "textureOffset": [120, 24]}
+							]
+						},
+						{
+							"id": "shroom2",
+							"invertAxis": "xy",
+							"translate": [2, 26.25, 6],
+							"rotate": [0, 90, 0],
+							"boxes": [
+								{"coordinates": [-2, -0.25, -2, 4, 3, 4], "textureOffset": [112, 41]},
+								{"coordinates": [-1, -2.25, -1, 2, 3, 2], "textureOffset": [120, 36]}
+							]
+						}
+					]
+				}
 			]
 		},
 		{
@@ -343,34 +377,45 @@
 		},
 		{
 			"part": "headwear",
-			"id": "head_part",
-			"model": "zombified_piglin_head.jpm",
-			"attach": "true"
+			"id": "headwear",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"attach": true
 		},
 		{
 			"part": "body",
-			"model": "zombified_piglin_body.jpm",
-			"attach": "true"
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"attach": true
 		},
 		{
 			"part": "left_arm",
-			"model": "zombified_piglin_left_arm.jpm",
-			"attach": "true"
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"attach": true
 		},
 		{
 			"part": "right_arm",
-			"model": "zombified_piglin_right_arm.jpm",
-			"attach": "true"
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"attach": true
 		},
 		{
 			"part": "left_leg",
-			"model": "zombified_piglin_left_leg.jpm",
-			"attach": "true"
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"attach": true
 		},
 		{
 			"part": "right_leg",
-			"model": "zombified_piglin_right_leg.jpm",
-			"attach": "true"
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0],
+			"attach": true
 		}
 	]
 }
