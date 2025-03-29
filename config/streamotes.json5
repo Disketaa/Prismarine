@@ -1,0 +1,13 @@
+{
+	emoteChannels: [],
+	twitchGlobalEmotes: true,
+	twitchSubscriberEmotes: false,
+	bttvEmotes: true,
+	bttvChannelEmotes: false,
+	ffzEmotes: true,
+	ffzChannelEmotes: false,
+	x7tvEmotes: true,
+	x7tvChannelEmotes: false,
+	activationMode: "Disabled",
+	errorReporting: "None"
+}

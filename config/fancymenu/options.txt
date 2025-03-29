@@ -9,7 +9,7 @@ B:force_fullscreen = 'false';
 
 B:modpack_mode = 'false';
 B:show_customization_overlay = 'false';
-B:advanced_customization_mode = 'false';
+B:advanced_customization_mode = 'true';
 
 
 ##[loading]
@@ -24,11 +24,11 @@ B:game_intro_fade_out = 'true';
 
 ##[window]
 
-B:show_custom_window_icon = 'false';
-S:custom_window_icon_macos = '';
-S:custom_window_icon_32 = '';
-S:custom_window_title = '';
-S:custom_window_icon_16 = '';
+B:show_custom_window_icon = 'true';
+S:custom_window_icon_macos = '/config/fancymenu/assets/icons/icon16.icns';
+S:custom_window_icon_32 = '/config/fancymenu/assets/icons/icon32.png';
+S:custom_window_title = 'Prismarine';
+S:custom_window_icon_16 = '/config/fancymenu/assets/icons/icon16.png';
 
 
 ##[multiplayer_screen]
@@ -44,12 +44,12 @@ B:show_singleplayer_screen_world_icons = 'true';
 ##[layout_editor]
 
 B:anchor_overlay_change_anchor_on_area_hover = 'true';
-B:show_layout_editor_grid = 'true';
+B:show_layout_editor_grid = 'false';
 B:anchor_overlay_change_anchor_on_element_hover = 'true';
-S:anchor_overlay_visibility_mode = 'dragging';
-B:anchor_overlay_show_all_connection_lines = 'false';
+S:anchor_overlay_visibility_mode = 'keybind';
+B:anchor_overlay_show_all_connection_lines = 'true';
 S:anchor_overlay_color_base_override = '';
-I:layout_editor_grid_size = '10';
+I:layout_editor_grid_size = '30';
 B:invert_anchor_overlay_color = 'false';
 S:anchor_overlay_color_border_override = '';
 F:anchor_overlay_opacity_normal = '0.5';
