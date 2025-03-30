@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = emotes
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1743235039475
+  last_edited_time = 1743314304858
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:48660bde-b203-4ad0-bcfa-5134ac67f15e-1743235036954] = [groups:][instances:]
+  [loading_requirement_container_meta:d2aadacd-bc33-445a-8729-716bb8227378-1743314289764] = [groups:][instances:]
 }
 
 customization {
@@ -480,7 +480,7 @@ element {
 
 element {
   button_element_executable_block_identifier = a9b826f1-cfd6-4525-a344-7bc318743ef2-1743217840681
-  [executable_action_instance:bd8eef13-dfb7-4e57-96aa-cfe507fc040d-1743218263570][action_type:sendmessage] = /emotes play PROUD
+  [executable_action_instance:bd8eef13-dfb7-4e57-96aa-cfe507fc040d-1743218263570][action_type:sendmessage] = /emotes play "Praise the sun"
   [executable_block:a9b826f1-cfd6-4525-a344-7bc318743ef2-1743217840681][type:generic] = [executables:bd8eef13-dfb7-4e57-96aa-cfe507fc040d-1743218263570;]
   backgroundnormal = [source:local]/config/fancymenu/assets/gui/emotes/button.png
   backgroundhovered = [source:local]/config/fancymenu/assets/gui/emotes/button_highlighted.png
