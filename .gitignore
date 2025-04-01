@@ -1,15 +1,15 @@
 /*
 
+!.gitignore
 !/config
 !/datapacks
 !/emotes
 !/mods
 !/resourcepacks
 !/shaderpacks
-!.gitignore
+!options.txt
 
 /config/sodium-fingerprint.json
 /config/stack-to-nearby-chests/locked-slots/*
-/options.txt
 /realms_persistence.json
 /usercache.json
