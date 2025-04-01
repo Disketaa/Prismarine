@@ -9,6 +9,7 @@
 !/shaderpacks
 !options.txt
 
+/config/jade/usernamecache.json
 /config/sodium-fingerprint.json
 /config/stack-to-nearby-chests/locked-slots/*
 /realms_persistence.json
