@@ -10,7 +10,8 @@
     "moredelight:toast_with_egg",
     "moredelight:toast_with_glow_berries",
     "moredelight:toast_with_honey",
-    "moredelight:toast_with_sweet_berries"
+    "moredelight:toast_with_sweet_berries",
+    "nears:cinder_sangak"
   ],
   "soundEvent": "sounds:block.oak_log.hit",
   "pitch": 2

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "nears:soul_berries"
+    },
+    "@": {
+      "item": "minecraft:sugar"
+    },
+    "-": {
+      "item": "farmersdelight:pie_crust"
+    }
+  },
+  "pattern": [
+    "#",
+    "@",
+    "-"
+  ],
+  "result": {
+    "id": "nears:soulless_pastry"
+  }
+}

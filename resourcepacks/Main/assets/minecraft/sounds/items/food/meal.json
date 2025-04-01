@@ -15,7 +15,8 @@
     "farmersdelight:salmon_roll",
     "farmersdelight:stuffed_pumpkin",
     "moredelight:chicken_salad",
-    "moredelight:potato_salad"
+    "moredelight:potato_salad",
+    "nears:glow_salad"
   ],
   "soundEvent": "minecraft:block.crop.break",
   "pitch": 1.5

@@ -9,9 +9,14 @@
         "item": "farmersdelight:rice_bale"
       }
     ],
-    {
-      "item": "supplementaries:flax_block"
-    }
+    [
+      {
+        "item": "nears:cinder_bale"
+      },
+      {
+        "item": "supplementaries:flax_block"
+      }
+    ]
   ],
   "result": {
     "id": "supplementaries:fodder",

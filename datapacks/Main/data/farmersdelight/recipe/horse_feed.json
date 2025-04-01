@@ -6,6 +6,9 @@
         "item": "minecraft:hay_block"
       },
       {
+        "item": "nears:cinder_bale"
+      },
+      {
         "item": "farmersdelight:rice_bale"
       },
       {

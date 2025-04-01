@@ -15,12 +15,6 @@
           "weight": 5
         },
         {
-          "type": "minecraft:tag",
-          "name": "c:seeds",
-          "expand": true,
-          "weight": 3
-        },
-        {
           "type": "minecraft:item",
           "name": "minecraft:dead_bush",
           "weight": 1
