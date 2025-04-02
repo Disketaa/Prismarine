@@ -1,0 +1,18 @@
+disabledMods = [
+  "arts_and_crafts",
+  "betterdeserttemples",
+  "bronze",
+  "farmersdelight",
+  "fowlplay",
+  "friendsandfoes",
+  "hopo",
+  "minecraft",
+  "mob-ai-tweaks",
+  "moredelight",
+  "mynethersdelight",
+  "nears",
+  "netherite_horse_armor",
+  "sawmill",
+  "supplementaries",
+  "templates"
+]

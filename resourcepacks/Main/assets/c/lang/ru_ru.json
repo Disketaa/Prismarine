@@ -1,3 +1,4 @@
 {
-    "tag.item.c.foods.contains_bread" : "Содержит хлеб"
+    "tag.item.c.foods.contains_bread" : "Содержит хлеб",
+    "tag.item.c.tools.wooden": "Деревянные инструменты"
 }

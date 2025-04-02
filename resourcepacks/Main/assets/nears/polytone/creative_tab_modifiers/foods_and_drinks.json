@@ -1,0 +1,31 @@
+{
+  "targets": [
+    "food_and_drinks"
+  ],
+  "additions": [
+    {
+      "items": [
+        "nears:faar"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:dried_kelp"
+        ]
+      }
+    },
+    {
+      "items": [
+        "nears:nether_stew",
+        "nears:glow_salad"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:beetroot_soup"
+        ]
+      }
+    }
+  ]
+}

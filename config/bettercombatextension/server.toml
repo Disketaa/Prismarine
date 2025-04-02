@@ -24,7 +24,7 @@ enable_jump_restriction_during_attacks = false
 # When set to true, the pitch of the players attack is restricted.
 # 
 # Default: false
-restrict_attack_pitch = true
+restrict_attack_pitch = false
 # Only has an effect when 'restrict_attack_pitch' is set to 'true'.
 # Describes the angle from 0, which means the final range is from -'attack_pitch_range' to 'attack_pitch_range'.
 # 

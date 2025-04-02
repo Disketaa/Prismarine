@@ -1,0 +1,14 @@
+{
+  "advancements.story.root": "Main Story",
+  "advancements.story.root.description": "Find yourself in a world made of blocks",
+  "advancements.story.obtain_wooden_tool": "Basic Tool",
+  "advancements.story.obtain_wooden_tool.description": "Craft a wooden tool on a crafting table",
+  "advancements.story.obtain_raw_copper": "Yearn for the Mines",
+  "advancements.story.obtain_raw_copper.description": "Find and mine copper from ore",
+  "advancements.story.obtain_bronze_blend": "Blend It",
+  "advancements.story.obtain_bronze_blend.description": "Mix copper and tin to form a bronze alloy",
+  "advancements.story.obtain_bronze_tool": "Bronze Age",
+  "advancements.story.obtain_bronze_tool.description": "Craft a bronze tool from bronze ingots",
+  "advancements.story.obtain_iron_tool": "Iron Age",
+  "advancements.story.obtain_iron_tool.description": "Craft an iron tool from iron ingots"
+}

@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","moonlight:mods_dynamic_assets","file/Main","file/Item Model Consistency","tinyskeletons:dynamically_copied_skeleton_textures","file/JustExpressions_v1.1.zip"]
-incompatibleResourcePacks:["armortrimitemfix","betterclouds","betterdays","bronze","clientsort","controlling","fancymenu","fog","jade","kiwi","konkrete","minecraft-cursor","mru","mynethersdelight","searchables","spark","spectrelib","subtle_effects","toastbegone","trimmable_tools","veil","waterframes","xaeroworldmap","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","moonlight:mods_dynamic_assets","tinyskeletons:dynamically_copied_skeleton_textures","file/Main","file/Item Model Consistency","file/JustExpressions_v1.1.zip"]
+incompatibleResourcePacks:["armortrimitemfix","balm","betterclouds","betterdays","bronze","clientsort","controlling","fancymenu","jade","kiwi","konkrete","minecraft-cursor","mru","mynethersdelight","netherportalfix","searchables","spark","spectrelib","subtle_effects","trimmable_tools","veil","waterframes","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:
 lang:ru_ru
 chatVisibility:0
@@ -58,7 +58,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -112,7 +112,7 @@ key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
-key_key.advancements:key.keyboard.unknown
+key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
 key_key.hotbar.3:key.keyboard.3
@@ -127,13 +127,6 @@ key_net.clayborn.accurateblockplacement.togglefastbreaking:key.keyboard.unknown
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.clientsort.group.sort:key.mouse.middle
-key_componentviewer.keybind.general.config_screen:key.keyboard.unknown
-key_componentviewer.keybind.config.tooltip_display:key.keyboard.unknown
-key_componentviewer.keybind.config.tooltip_purpose:key.keyboard.unknown
-key_componentviewer.keybind.config.tooltip_components:key.keyboard.unknown
-key_componentviewer.keybind.config.tooltip_formatting:key.keyboard.unknown
-key_componentviewer.keybind.config.clipboard_copy:key.keyboard.unknown
-key_componentviewer.keybind.config.clipboard_formatting:key.keyboard.unknown
 key_key.emotecraft.fastchoose:key.keyboard.b
 key_key.emotecraft.stop:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown

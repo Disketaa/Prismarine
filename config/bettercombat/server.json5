@@ -10,7 +10,7 @@
 	// Bypass damage receive throttling of LivingEntity from player attacks.
 	"allow_fast_attacks": true,
 	// Allows client-side target search and server-side attack request execution against currently mounted entity of the player
-	"allow_attacking_mount": false,
+	"allow_attacking_mount": true,
 	// The minimum number of ticks between two attacks
 	"attack_interval_cap": 2,
 	/* Blacklist for entities that are acting as vehicle but should not be treated as protected mounts.
@@ -39,11 +39,11 @@
 	// Allows client-side target search to ignore obstacles. WARNING! Setting this to `false` significantly increases the load on clients.
 	"allow_attacking_thru_walls": false,
 	// Applies movement speed multiplier while attacking. (Min: 0, Max: 1). Use `0` for a full stop while attacking. Use `1` for no movement speed penalty
-	"movement_speed_while_attacking": 0.5,
+	"movement_speed_while_attacking": 0.8999999761581421,
 	// Determines if applying the movement speed multiplier while attacking is done smoothly or instantly
 	"movement_speed_applied_smoothly": true,
 	// Determines whether or not to apply movement speed reduction while attacking mounted
-	"movement_speed_effected_while_mounting": false,
+	"movement_speed_effected_while_mounting": true,
 	// Attacks faster than a vanilla threshold will do smaller knockback, proportionally.
 	"knockback_reduced_for_fast_attacks": true,
 	// Attack cooldown in ticks, below which knockback will be reduced

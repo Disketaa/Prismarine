@@ -1,0 +1,31 @@
+{
+  "parent": "prismarine:story/obtain_bronze_blend",
+  "criteria": {
+    "obtain_bronze_tool": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#bronze:bronze_tools"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.obtain_bronze_tool.description"
+    },
+    "icon": {
+      "id": "bronze:bronze_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.story.obtain_bronze_tool"
+    }
+  },
+  "requirements": [
+    [
+      "obtain_bronze_tool"
+    ]
+  ]
+}

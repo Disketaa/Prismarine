@@ -5,7 +5,7 @@
 	displayMoonPhase: false,
 	displayPaintings: false,
 	displaySpawnEgg: false,
-	displayUsesLeft: true,
+	displayUsesLeft: false,
 	updateEnchantmentTooltips: true,
 	updatePotionTooltips: true,
 	updateTippedArrowTooltips: true,

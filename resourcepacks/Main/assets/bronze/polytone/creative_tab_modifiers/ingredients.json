@@ -17,6 +17,17 @@
     },
     {
       "items": [
+        "bronze:bronze_blend"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:raw_copper"
+        ]
+      }
+    },
+    {
+      "items": [
         "bronze:tin_ingot"
       ],
       "before": true,
@@ -48,17 +59,6 @@
         "type": "items_match",
         "items": [
           "minecraft:iron_nugget"
-        ]
-      }
-    },
-    {
-      "items": [
-        "bronze:bronze_blend"
-      ],
-      "predicate": {
-        "type": "items_match",
-        "items": [
-          "minecraft:netherite_ingot"
         ]
       }
     }

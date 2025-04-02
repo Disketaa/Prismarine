@@ -1,0 +1,18 @@
+{
+  "targets": [
+    "building_blocks"
+  ],
+  "additions": [
+    {
+      "items": [
+        "nears:near_twig_block"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:warped_button"
+        ]
+      }
+    }
+  ]
+}
