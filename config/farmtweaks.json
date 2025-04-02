@@ -44,7 +44,6 @@
     "minecraft:nether_wart",
     "minecraft:potatoes",
     "minecraft:wheat",
-    "nears:cinder_seeds",
-    "supplementaries:flax"
+    "nears:cinder_seeds"
   ]
 }
