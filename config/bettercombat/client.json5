@@ -12,8 +12,8 @@
 	"isTooltipAttackRangeReformat": true,
 	"weaponSwingSoundVolume": 100,
 	"isDebugOBBEnabled": true,
-	"swingThruGrassBlacklist": "",
+	"swingThruGrassBlacklist": "knife",
 	"mineWithWeaponBlacklist": "",
 	"firstPersonAnimations": "AUTO",
-	"legAnimationThreshold": -1.0
+	"legAnimationThreshold": 99.0
 }

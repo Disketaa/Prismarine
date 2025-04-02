@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","moonlight:mods_dynamic_assets","tinyskeletons:dynamically_copied_skeleton_textures","file/Main","file/Item Model Consistency","file/JustExpressions_v1.1.zip"]
+resourcePacks:["vanilla","fabric","moonlight:mods_dynamic_assets","file/Main","file/Item Model Consistency","file/JustExpressions_v1.1.zip","tinyskeletons:dynamically_copied_skeleton_textures"]
 incompatibleResourcePacks:["armortrimitemfix","balm","betterclouds","betterdays","bronze","clientsort","controlling","fancymenu","jade","kiwi","konkrete","minecraft-cursor","mru","mynethersdelight","netherportalfix","searchables","spark","spectrelib","subtle_effects","trimmable_tools","veil","waterframes","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:
 lang:ru_ru
@@ -170,13 +170,13 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.left.bracket
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:0.402317880794702
-soundCategory_music:0.8133802816901409
+soundCategory_master:0.8576158940397351
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
-soundCategory_neutral:1.0
+soundCategory_neutral:0.1443661971830986
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
