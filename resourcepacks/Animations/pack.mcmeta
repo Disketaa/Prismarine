@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": [34, 99],
+    "description": {
+      "translate": "resourcePack.animations.description",
+      "color": "#AAAAAA"
+    }
+  }
+}

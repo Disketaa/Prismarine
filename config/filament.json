@@ -1,8 +1,0 @@
-{
-  "emissive_shader": false,
-  "commands": true,
-  "trim_armor_replace_chainmail": false,
-  "prevent_adventure_mode_decoration_interaction": true,
-  "alternative_block_placement": false,
-  "alternative_cosmetic_placement": false
-}

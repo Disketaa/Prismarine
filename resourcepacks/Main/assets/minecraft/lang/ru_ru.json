@@ -2,5 +2,9 @@
   "dataPack.main.description": "Стандартный набор данных Milestone",
   "debug.reload_datapacks.message": "Наборы данных перезагружены",
   "menu.options": "Настройки",
+  "resourcePack.animations.description": "Улучшенные анимации сущностей!",
+  "resourcePack.animations.name": "Анимации",
+  "resourcePack.animations_tweaks.description": "Различные исправления и улучшения анимаций",
+  "resourcePack.animations_tweaks.name": "Исправления анимаций",
   "resourcePack.vanilla.description": "Обычный внешний вид Minecraft"
 }

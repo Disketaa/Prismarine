@@ -1,5 +1,5 @@
 #All cooldowns are in ticks and all chances are in percentage
-allay_rework=true
+allay_rework=false
 blaze_extra_fireballs_count=0
 blazes_strafe_when_shooting=true
 bogged_special_attacks=true

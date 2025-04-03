@@ -9,7 +9,7 @@
     "rainEnd": 110.0,
     "rainFogApplySpeed": 1.0
   },
-  "waterToggle": true,
+  "waterToggle": false,
   "waterStart": -20.0,
   "waterEnd": 90.0,
   "waterEndSwamp": 60.0,

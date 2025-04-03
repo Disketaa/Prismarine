@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","moonlight:mods_dynamic_assets","file/Main","file/Item Model Consistency","file/JustExpressions_v1.1.zip","tinyskeletons:dynamically_copied_skeleton_textures"]
+resourcePacks:["vanilla","fabric","moonlight:mods_dynamic_assets","file/Main","tinyskeletons:dynamically_copied_skeleton_textures","file/Item Model Consistency","file/Animations","file/Animations Tweaks"]
 incompatibleResourcePacks:["armortrimitemfix","balm","betterclouds","betterdays","bronze","clientsort","controlling","fancymenu","jade","kiwi","konkrete","minecraft-cursor","mru","mynethersdelight","netherportalfix","searchables","spark","spectrelib","subtle_effects","trimmable_tools","veil","waterframes","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:
 lang:ru_ru

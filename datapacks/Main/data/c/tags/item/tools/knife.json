@@ -1,6 +1,8 @@
 {
   "replace": true,
   "values": [
+    "moredelight:wooden_knife",
+    "moredelight:stone_knife",
     "farmersdelight:iron_knife",
     "farmersdelight:golden_knife",
     "farmersdelight:diamond_knife",

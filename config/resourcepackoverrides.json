@@ -7,6 +7,14 @@
       "default_position": "bottom"
     },
 
+    "file/Animations": {
+      "title": "{\"translate\":\"resourcePack.animations.name\"}"
+    },
+
+    "file/Animations Tweaks": {
+      "title": "{\"translate\":\"resourcePack.animations_tweaks.name\"}"
+    },
+
     "Hidden": [
       "better-snow-coverage:z-fighting",
       "black_icons",
