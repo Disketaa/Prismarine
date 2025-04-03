@@ -130,6 +130,7 @@ key_key.clientsort.group.sort:key.mouse.middle
 key_key.emotecraft.fastchoose:key.keyboard.b
 key_key.emotecraft.stop:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.fabrictailor.toggle_skin_gui:key.keyboard.k
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_key.jade.config:key.keyboard.unknown
@@ -171,8 +172,8 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.left.bracket
 key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:0.8576158940397351
-soundCategory_music:0.0
-soundCategory_record:1.0
+soundCategory_music:0.4295774647887324
+soundCategory_record:0.176056338028169
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0

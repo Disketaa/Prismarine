@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "farmersdelight:canvas"
+    },
+    "/": {
+      "tag": "c:bamboo"
+    }
+  },
+  "pattern": [
+    "# #",
+    "/ /",
+    "#/#"
+  ],
+  "result": {
+    "id": "farmersdelight:basket"
+  }
+}

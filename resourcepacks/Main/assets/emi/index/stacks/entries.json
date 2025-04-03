@@ -23,6 +23,10 @@
     {
       "stack": "item:minecraft:suspicious_stew",
       "after": "item:minecraft:rabbit_stew"
+    },
+    {
+      "stack": "item:minecraft:painting",
+      "after": "item:minecraft:glow_item_frame"
     }
   ]
 }

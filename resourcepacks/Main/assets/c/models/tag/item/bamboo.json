@@ -2,6 +2,6 @@
   "parent": "emi:item/half_item",
   "textures": {
     "first": "minecraft:item/bamboo",
-    "second": "nears:item/near_twig"
+    "second": "mynethersdelight:item/powder_cannon"
   }
 }
