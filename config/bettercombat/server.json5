@@ -10,7 +10,7 @@
 	// Bypass damage receive throttling of LivingEntity from player attacks.
 	"allow_fast_attacks": true,
 	// Allows client-side target search and server-side attack request execution against currently mounted entity of the player
-	"allow_attacking_mount": true,
+	"allow_attacking_mount": false,
 	// The minimum number of ticks between two attacks
 	"attack_interval_cap": 2,
 	/* Blacklist for entities that are acting as vehicle but should not be treated as protected mounts.

@@ -189,7 +189,7 @@
     },
     "item_shelf": {
       "enabled": true,
-      "climbable_shelves": false
+      "climbable_shelves": true
     },
     "sugar_cube": {
       "enabled": true,
@@ -385,8 +385,8 @@
       "enabled": true
     },
     "placeable_sticks": {
-      "sticks": true,
-      "blaze_rods": true
+      "sticks": false,
+      "blaze_rods": false
     },
     "placeable_gunpowder": {
       "enabled": true,
@@ -409,6 +409,8 @@
       "tinted_blocks_on_maps": true
     },
     "placeable_books": {
+      "enabled": false,
+      "written_books": false,
       "mixed_books": false
     },
     "zombie_horse": {

@@ -16,6 +16,7 @@
     },
 
     "Hidden": [
+      "__moremcmeta-internal__",
       "better-snow-coverage:z-fighting",
       "black_icons",
       "classic_icons",

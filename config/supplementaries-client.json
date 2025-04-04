@@ -95,17 +95,6 @@
     "projectile_weapon_overlay": true,
     "compass_right_click": false,
     "placeable_books_glint": false,
-    "placeable_books_random_colors": [
-      "brown",
-      "orange",
-      "yellow",
-      "red",
-      "green",
-      "lime",
-      "cyan",
-      "blue",
-      "purple"
-    ],
     "banner_pattern_tooltip": true,
     "paintings_tooltip": true,
     "sherds_tooltip": true,
