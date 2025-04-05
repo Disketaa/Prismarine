@@ -1,16 +1,18 @@
 /*
 
 !.gitignore
-!/config
-!/datapacks
-!/emotes
-!/mods
-!/resourcepacks
-!/shaderpacks
+!config/
+!datapacks/
+!emotes/
+!mods/
 !options.txt
+!resourcepacks/
+!shaderpacks/
 
-/config/jade/usernamecache.json
-/config/sodium-fingerprint.json
-/config/stack-to-nearby-chests/locked-slots/*
-/realms_persistence.json
-/usercache.json
+config/iris.properties
+config/jade/usernamecache.json
+config/rsls.properties
+config/sodium-fingerprint.json
+config/stack-to-nearby-chests/locked-slots/*
+realms_persistence.json
+usercache.json
