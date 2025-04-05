@@ -169,7 +169,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.left.bracket
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:0.40397350993377484
+soundCategory_master:0.18543046357615894
 soundCategory_music:0.7394366197183099
 soundCategory_record:0.02112676056338028
 soundCategory_weather:1.0
