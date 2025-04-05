@@ -9,10 +9,12 @@
 !resourcepacks/
 !shaderpacks/
 
+config/fabric/
 config/iris.properties
 config/jade/usernamecache.json
 config/rsls.properties
 config/sodium-fingerprint.json
 config/stack-to-nearby-chests/locked-slots/*
+config/WildfireGender/
 realms_persistence.json
 usercache.json
