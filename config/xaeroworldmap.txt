@@ -39,7 +39,7 @@ caveModeDepth:20
 caveModeStart:2147483647
 autoCaveMode:3
 legibleCaveMaps:true
-displayCaveModeStart:false
+displayCaveModeStart:true
 caveModeToggleTimer:1000
 defaultCaveModeType:1
 biomeBlending:true

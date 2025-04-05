@@ -744,7 +744,7 @@ element {
 
 element {
   is_async = false
-  tick_delay = 32
+  tick_delay = 8
   tick_mode = normal
   ticker_element_executable_block_identifier = e51ec50a-c0d6-45cc-957d-8a66a1ce9a23-1743231413124
   [executable_action_instance:225973b2-4649-409d-9e37-b23e41a9bac1-1743231436763][action_type:closegui] = 

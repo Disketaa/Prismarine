@@ -402,9 +402,9 @@
       "target_block": ""
     },
     "map_tweaks": {
-      "random_adventurer_maps": true,
-      "random_adventurer_maps_select_random_structure": true,
-      "block_map_markers": true,
+      "random_adventurer_maps": false,
+      "random_adventurer_maps_select_random_structure": false,
+      "block_map_markers": false,
       "death_marker": "WITH_COMPASS",
       "tinted_blocks_on_maps": true
     },
