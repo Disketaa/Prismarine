@@ -12,7 +12,7 @@
 	"showCrosshair": true,
 	"showOutline": false,
 	"showOutlineEvenWhenNotBridging": false,
-	"nonBridgeRespectsCrouchRules": true,
+	"nonBridgeRespectsCrouchRules": false,
 	"outlineColour": 1711276032,
 	"skipTorchBridging": true,
 	"enableSlabAssist": true,
@@ -20,7 +20,7 @@
 	"bridgingSnapStrength": 1.0,
 	"bridgingAdjacency": "CORNERS",
 	"perspectiveLock": "LET_BRIDGING_MOD_DECIDE",
-	"showDebugHighlight": true,
+	"showDebugHighlight": false,
 	"showNonBridgingDebugHighlight": false,
 	"showDebugTrace": false
 }
