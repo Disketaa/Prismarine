@@ -1,6 +1,6 @@
 {
-  "skipDuration": 20,
-  "interpolateSamples": 30,
-  "initialFactor": 0.2,
+  "skipDuration": 90,
+  "interpolateSamples": 2,
+  "initialFactor": 0.5,
   "standardTickRate": 20
 }

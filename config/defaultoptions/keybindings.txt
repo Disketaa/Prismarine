@@ -1,10 +1,12 @@
 key_fpsreducer.key.forceIdle:key.keyboard.unknown:
 key_fpsreducer.key.openGui:key.keyboard.unknown:
+key_gui.xaero_open_settings:key.keyboard.unknown:
 key_gui.xaero_pac_key_open_menu:key.keyboard.grave.accent:
 key_iris.keybind.reload:key.keyboard.unknown:
 key_iris.keybind.shaderPackSelection:key.keyboard.left.bracket:
 key_iris.keybind.toggleShaders:key.keyboard.unknown:
 key_iris.keybind.wireframe:key.keyboard.unknown:
+key_key.bridgingmod.toggle_bridging:key.keyboard.unknown:
 key_key.clientsort.group.sort:key.mouse.middle:
 key_key.disable_voice_chat:key.keyboard.unknown:
 key_key.entityculling.toggle:key.keyboard.unknown:

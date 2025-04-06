@@ -2,8 +2,12 @@
   "version": 1,
   "multilingualItemSearch": true,
   "removableDefaultLanguage": false,
-  "fallbacks": [],
-  "previousFallbacks": [],
+  "fallbacks": [
+    "ru_ru"
+  ],
+  "previousFallbacks": [
+    "en_us"
+  ],
   "language": "en_us",
   "previousLanguage": "ru_ru"
 }
