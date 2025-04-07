@@ -88,7 +88,8 @@
     "custom_configured_screen": true,
     "test1": 0.0,
     "test2": 0.0,
-    "test3": 0.0
+    "test3": 0.0,
+    "I am very boring": false
   },
   "tweaks": {
     "clock_right_click": true,

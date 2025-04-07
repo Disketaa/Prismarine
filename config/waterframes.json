@@ -32,7 +32,13 @@
   "Permissions": {
     "useInAdventure": false,
     "useInSurvival": true,
-    "useForAnyone": true
+    "useForAnyone": true,
+    "useBindingRemotes": true,
+    "useRemotes": true,
+    "useWhitelist": true,
+    "blackWhitelist": false,
+    "allowSaving": true,
+    "usePermissionAPI": false
   },
   "Whitelist": {
     "useWhitelist": false,

@@ -1,0 +1,38 @@
+#petting cooldown in ticks | default: 5
+cooldown=5
+
+#how squishy is the slime when pet
+#recommended range: -2 to 2 | default: -0.8
+slime-squishiness=-0.8
+
+#enable/disable rideable mob petting | default: true
+rideable-shift-petting=true
+
+#--------------------------
+#Enable or Disable entity-specific unique interactions
+#--------------------------
+#allay twirl | default: true
+allay-unique=true
+#bee spin | default: true
+bee-unique=true
+#camel ear wiggle | default: true
+camel-unique=true
+#cat nod | default: true
+cat-unique=true
+#chicken wing flap | default: true
+chicken-unique=true
+#frog croak | default: true
+frog-unique=true
+#goat nod | default: true
+goat-unique=true
+#parrot wing flap | default: true
+parrot-unique=true
+#rabbit kick | default: true
+rabbit-unique=true
+#slime squish | default: true
+slime-unique=true
+#sniffer sniff | default: true
+sniffer-unique=true
+#wolf shake | default: true
+wolf-unique=true
+
