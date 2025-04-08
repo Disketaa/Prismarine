@@ -89,8 +89,8 @@
       "simple_safes": false
     },
     "sack": {
-      "enabled": true,
-      "sack_penalty": true,
+      "enabled": false,
+      "sack_penalty": false,
       "sack_increment": 2,
       "slots": 9
     },
@@ -414,10 +414,10 @@
       "mixed_books": false
     },
     "zombie_horse": {
-      "zombie_horse_conversion": true,
+      "zombie_horse_conversion": false,
       "rotten_flesh": 64,
-      "rideable_underwater": true,
-      "zombie_horse_inverse_conversion": true
+      "rideable_underwater": false,
+      "zombie_horse_inverse_conversion": false
     },
     "noteblocks_scare": {
       "enabled": true

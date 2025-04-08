@@ -40,9 +40,9 @@
     "directional_cake": false
   },
   "mob_head": {
-    "skull_piles": true,
-    "skull_candles": true,
-    "multiple_candles": true
+    "skull_piles": false,
+    "skull_candles": false,
+    "multiple_candles": false
   },
   "flower_pot": {
     "hanging_pot": true

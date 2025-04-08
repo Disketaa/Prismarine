@@ -1,5 +1,5 @@
 ignoreUpdate:0
-updateNotification:true
+updateNotification:false
 allowInternetAccess:true
 differentiateByServerAddress:true
 caveMapsAllowed:true
@@ -21,7 +21,7 @@ displayZoom:true
 worldmapWaypointsScale:1.0
 openMapAnimation:true
 reloadVersion:1
-reloadEverything:true
+reloadEverything:false
 zoomButtons:false
 waypointBackgrounds:true
 detectAmbiguousY:true
