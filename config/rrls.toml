@@ -22,4 +22,4 @@ earlyPackStatusSend = false
 doubleLoad = "FORCE_LOAD"
 #text.autoconfig.rrls.option.animationSpeed.@Tooltip
 animationSpeed = 1000.0
-skipForgeOverlay = false
+skipForgeOverlay = true

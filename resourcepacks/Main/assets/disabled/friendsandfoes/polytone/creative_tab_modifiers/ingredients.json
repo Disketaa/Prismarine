@@ -1,0 +1,29 @@
+{
+  "targets": [
+    "ingredients"
+  ],
+  "additions": [
+    {
+      "items": [
+        "friendsandfoes:wildfire_crown_fragment"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:armadillo_scute"
+        ]
+      }
+    },
+    {
+      "items": [
+        "friendsandfoes:crab_claw"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:glistering_melon_slice"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "supplementaries:block/flower_box_model",
+  "textures": {
+    "2": "supplementaries:block/flower_box_top",
+    "flowerpot": "supplementaries:block/flower_box_sides",
+    "dirt": "block/dirt"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [90, 130, -15],
+      "translation": [-3, -2, 1],
+      "scale": [0.375, 0.375, 0.375]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, 135, 0],
+      "translation": [0, 1, 0],
+      "scale": [0.75, 0.75, 0.75]
+    },
+    "ground": {
+      "translation": [0, 3, -1.5],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "head": {
+      "translation": [0, 5, -6]
+    },
+    "gui": {
+      "rotation": [30, 45, 0],
+      "translation": [-3, 5, 0],
+      "scale": [0.9, 0.9, 0.9]
+    },
+    "fixed": {
+      "translation": [0, 0, -3],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

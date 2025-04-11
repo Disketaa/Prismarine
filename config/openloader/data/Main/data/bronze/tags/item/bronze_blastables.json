@@ -1,0 +1,8 @@
+{
+  "values": [
+    "bronze:bronze_block",
+    "bronze:bronze_door_block",
+    "bronze:bronze_trapdoor_block",
+    "#bronze:bronze_smeltables"
+  ]
+}

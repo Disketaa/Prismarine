@@ -1,0 +1,54 @@
+{
+  "targets": [
+    "combat"
+  ],
+  "additions": [
+    {
+      "items": [
+        "bronze:bronze_sword"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:wooden_sword"
+        ]
+      }
+    },
+    {
+      "items": [
+        "bronze:bronze_axe"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:wooden_axe"
+        ]
+      }
+    },
+    {
+      "items": [
+        "bronze:bronze_helmet",
+        "bronze:bronze_chestplate",
+        "bronze:bronze_leggings",
+        "bronze:bronze_boots"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:leather_boots"
+        ]
+      }
+    },
+    {
+      "items": [
+        "bronze:bronze_horse_armor"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:leather_horse_armor"
+        ]
+      }
+    }
+  ]
+}

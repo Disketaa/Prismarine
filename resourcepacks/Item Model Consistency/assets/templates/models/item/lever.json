@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/template_lever",
+  "textures": {
+    "base": "block/scaffolding_top",
+    "lever": "block/lever"
+  }
+}

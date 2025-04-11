@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/template_door",
+  "textures": {
+    "bottom": "bronze:block/bronze_door_bottom",
+    "top": "bronze:block/bronze_door_top"
+  }
+}

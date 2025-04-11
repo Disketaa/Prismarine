@@ -1,0 +1,8 @@
+{
+  "keys": [
+    "#minecraft:lectern_books",
+    "map_atlases:atlas",
+    "minecraft:book"
+  ],
+  "soundEvent": "minecraft:item.book.put"
+}

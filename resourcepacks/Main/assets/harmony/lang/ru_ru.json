@@ -1,0 +1,14 @@
+{
+  "advancements.story.root": "Основная история",
+  "advancements.story.root.description": "Вы и мир, полный блоков",
+  "advancements.story.obtain_wooden_tool": "Первый инструмент",
+  "advancements.story.obtain_wooden_tool.description": "Смастерите деревянный инструмент на верстаке",
+  "advancements.story.obtain_raw_copper": "С киркой наперевес",
+  "advancements.story.obtain_raw_copper.description": "Найдите и добудьте медь из руды",
+  "advancements.story.obtain_bronze_blend": "Сплавься",
+  "advancements.story.obtain_bronze_blend.description": "Смешайте медь и олово в бронзовый сплав",
+  "advancements.story.obtain_bronze_tool": "Бронзовый век",
+  "advancements.story.obtain_bronze_tool.description": "Смастерите бронзовый инструмент из слитков бронзы",
+  "advancements.story.obtain_iron_tool": "Железный арсенал",
+  "advancements.story.obtain_iron_tool.description": "Смастерите железный инструмент из слитков железа"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "2",
+  "pack_overrides": {
+
+    "mod_resources": {
+      "default_position": "bottom",
+      "fixed_position": true,
+      "hidden": true
+    },
+
+    "file/Main": {
+      "title": "{\"translate\":\"resourcePack.vanilla.name\"}",
+      "required": true
+    },
+
+    "file/Animations": {
+      "title": "{\"translate\":\"resourcePack.animations.name\"}"
+    },
+
+    "file/Animations Tweaks": {
+      "title": "{\"translate\":\"resourcePack.animations_tweaks.name\"}"
+    },
+
+    "Hidden": [
+      "high_contrast",
+      "programmer_art",
+      "vanilla"
+    ],
+
+    "$$Hidden": {
+      "hidden": true
+    }
+  }
+}

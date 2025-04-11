@@ -1,0 +1,7 @@
+{
+  "keys": [
+    "supplementaries:flute"
+  ],
+  "soundEvent": "minecraft:block.bamboo.place",
+  "pitch": 1.75
+}

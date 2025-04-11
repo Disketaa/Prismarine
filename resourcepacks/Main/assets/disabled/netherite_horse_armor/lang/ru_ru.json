@@ -1,0 +1,8 @@
+{
+  "item.netherite_horse_armor.netherite_horse_armor": "Незеритовая конская броня",
+  "netherite_horse_armor.advancements.obtain.description": "Заполучите незеритовую конскую броню",
+  "netherite_horse_armor.advancements.obtain.title": "Тёмный рыцарь",
+  "text.autoconfig.netherite_horse_armor.option.protectionValue": "Даёт очков брони:",
+  "text.autoconfig.netherite_horse_armor.title": "Конфигурация §7Netherite Horse Armor",
+  "text.autoconfig.netherite_horse_armor.option.weight": "Частость появления в сундуках"
+}

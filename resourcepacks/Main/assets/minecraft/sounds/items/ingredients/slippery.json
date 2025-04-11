@@ -1,0 +1,9 @@
+{
+  "keys": [
+    "arts_and_crafts:bleachdew",
+    "minecraft:ink_sac",
+    "minecraft:glow_ink_sac",
+    "supplementaries:antique_ink"
+  ],
+  "soundEvent": "minecraft:block.slime_block.hit"
+}

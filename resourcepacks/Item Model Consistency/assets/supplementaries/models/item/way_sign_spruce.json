@@ -1,0 +1,6 @@
+{
+  "parent": "supplementaries:item/template_way_sign",
+  "textures": {
+    "sign": "supplementaries:block/way_signs/way_sign_spruce"
+  }
+}

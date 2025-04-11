@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "ingredient": [
+    {
+      "tag": "bronze:bronze_blastables"
+    }
+  ],
+  "result": {
+    "id": "bronze:bronze_nugget"
+  }
+}

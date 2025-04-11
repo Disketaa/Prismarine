@@ -1,0 +1,11 @@
+{
+  "targets": [
+    "bronze:main"
+  ],
+  "removals": [
+    {
+      "type": "id_match",
+      "namespace": "bronze"
+    }
+  ]
+}

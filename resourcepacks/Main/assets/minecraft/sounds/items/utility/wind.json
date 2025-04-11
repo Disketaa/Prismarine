@@ -1,0 +1,9 @@
+{
+  "keys": [
+    "minecraft:wind_charge",
+    "supplementaries:confetti_popper"
+  ],
+  "soundEvent": "minecraft:entity.breeze.wind_burst",
+  "volume": 0.1,
+  "pitch": 2.0
+}

@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "#c:foods/raw_fish",
+    "#c:foods/raw_meat",
+    "#c:seeds",
+    "friendsandfoes:crab_egg",
+    "minecraft:egg",
+    "minecraft:turtle_egg"
+  ]
+}

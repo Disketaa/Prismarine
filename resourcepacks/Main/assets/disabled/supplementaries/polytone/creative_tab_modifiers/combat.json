@@ -1,0 +1,13 @@
+{
+  "targets": [
+    "combat"
+  ],
+  "removals": [
+    {
+      "type": "items_match",
+      "items": [
+        "supplementaries:cannonball"
+      ]
+    }
+  ]
+}

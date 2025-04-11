@@ -1,0 +1,9 @@
+{
+  "keys": [
+    "minecraft:firework_star",
+    "minecraft:glowstone_dust",
+    "minecraft:sugar"
+  ],
+  "soundEvent": "minecraft:block.gravel.fall",
+  "pitch": 2
+}

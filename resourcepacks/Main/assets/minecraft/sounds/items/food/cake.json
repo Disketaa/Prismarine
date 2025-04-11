@@ -1,0 +1,13 @@
+{
+  "keys": [
+    "farmersdelight:apple_pie_slice",
+    "farmersdelight:cake_slice",
+    "farmersdelight:chocolate_pie_slice",
+    "farmersdelight:sweet_berry_cheesecake_slice",
+    "minecraft:pumpkin_pie",
+    "nears:soulless_pastry",
+    "supplementaries:candy"
+  ],
+  "soundEvent": "minecraft:block.wool.step",
+  "pitch": 1.75
+}

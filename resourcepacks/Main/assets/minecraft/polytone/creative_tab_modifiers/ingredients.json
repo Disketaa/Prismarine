@@ -1,0 +1,48 @@
+{
+  "targets": [
+    "ingredients"
+  ],
+  "removals": [
+    {"type": "id_match", "path": "copper_ingot"},
+    {"type": "id_match", "path": "iron_nugget"},
+    {"type": "id_match", "path": "netherite_scrap"}
+  ],
+  "additions": [
+    {
+      "items": [
+        "minecraft:copper_ingot"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:iron_ingot"
+        ]
+      }
+    },
+    {
+      "items": [
+        "minecraft:iron_nugget"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:gold_nugget"
+        ]
+      }
+    },
+    {
+      "items": [
+        "minecraft:netherite_scrap"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:ancient_debris"
+        ]
+      }
+    }
+  ]
+}

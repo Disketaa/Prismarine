@@ -1,0 +1,6 @@
+{
+  "keys": [
+    "sawmill:sawmill"
+  ],
+  "soundEvent": "sawmill:entity.villager.work_carpenter"
+}

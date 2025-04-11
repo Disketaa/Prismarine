@@ -1,0 +1,8 @@
+{
+  "keys": [
+    "#supplementaries:straw",
+    "farmersdelight:rice_panicle"
+  ],
+  "soundEvent": "minecraft:block.crop.break",
+  "pitch": 1.75
+}

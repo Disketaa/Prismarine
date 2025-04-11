@@ -1,0 +1,31 @@
+{
+  "targets": [
+    "redstone_blocks"
+  ],
+  "additions": [
+    {
+      "items": [
+        "bronze:bronze_door_block"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:iron_door"
+        ]
+      }
+    },
+    {
+      "items": [
+        "bronze:bronze_trapdoor_block"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:iron_trapdoor"
+        ]
+      }
+    }
+  ]
+}

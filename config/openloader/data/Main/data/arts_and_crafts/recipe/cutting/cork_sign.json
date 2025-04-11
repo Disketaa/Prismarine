@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "arts_and_crafts:cork_sign"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "arts_and_crafts:cork_planks",
+        "count": 1
+      }
+    }
+  ],
+  "tool": {
+    "fabric:type": "farmersdelight:item_ability",
+    "action": "axe_dig"
+  }
+}

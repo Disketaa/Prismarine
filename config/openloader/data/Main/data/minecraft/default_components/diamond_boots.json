@@ -1,0 +1,29 @@
+{
+  "add": {
+    "minecraft:attribute_modifiers": {
+      "modifiers": [
+        {
+          "type": "minecraft:generic.armor",
+          "id": "minecraft:armor.boots",
+          "amount": 3,
+          "operation": "add_value",
+          "slot": "feet"
+        },
+        {
+        "type": "minecraft:generic.armor_toughness",
+        "id": "minecraft:armor.boots",
+        "amount": 2,
+        "operation": "add_value",
+        "slot": "feet"
+        },
+        {
+          "type": "minecraft:generic.movement_speed",
+          "id": "minecraft:armor.boots",
+          "amount": -0.025,
+          "operation": "add_multiplied_base",
+          "slot": "feet"
+        }
+      ]
+    }
+  }
+}
