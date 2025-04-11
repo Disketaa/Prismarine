@@ -1,7 +1,7 @@
 {
   "options": {
-    "interactionRateServer": 4,
-    "interactionRateClient": 4,
+    "interactionRateServer": 12,
+    "interactionRateClient": 12,
     "serverAcceleratedSorting": false,
     "optimizedCreativeSorting": true,
     "hotbarScope": "HOTBAR",

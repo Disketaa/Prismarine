@@ -20,5 +20,5 @@
 	"disableSunsetFog": false,
 	"enableHighAltitudeFog": true,
 	"prioritizePolytoneFogColors": false,
-	"disableWhenIrisActive": true
+	"disableWhenIrisActive": false
 }
