@@ -1,0 +1,7 @@
+{
+  "parent": "emi:item/half_item",
+  "textures": {
+    "first": "minecraft:item/bamboo",
+    "second": "mynethersdelight:item/powder_cannon"
+  }
+}

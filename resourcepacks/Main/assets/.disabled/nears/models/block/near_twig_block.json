@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "nears:block/near_twig_block_top",
+    "side": "nears:block/near_twig_block"
+  }
+}

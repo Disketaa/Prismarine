@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:foods/dough"
+    },
+    {
+      "tag": "c:foods/milk"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:pie_crust"
+  }
+}

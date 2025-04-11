@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "way_sign"
+    }
+  ]
+}

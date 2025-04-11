@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "nears:block/faar_bundle_top",
+    "side": "nears:block/faar_bundle",
+    "particle": "nears:block/faar_bundle"
+  }
+}

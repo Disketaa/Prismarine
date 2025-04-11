@@ -1,0 +1,30 @@
+{
+  "targets": [
+    "combat"
+  ],
+  "additions": [
+    {
+      "items": [
+        "friendsandfoes:totem_of_freezing",
+        "friendsandfoes:totem_of_illusion"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:totem_of_undying"
+        ]
+      }
+    },
+    {
+      "items": [
+        "friendsandfoes:wildfire_crown"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:turtle_helmet"
+        ]
+      }
+    }
+  ]
+}

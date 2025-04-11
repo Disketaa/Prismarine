@@ -1,0 +1,22 @@
+{
+  "add": {
+    "minecraft:attribute_modifiers": {
+      "modifiers": [
+        {
+          "type": "minecraft:generic.armor",
+          "id": "minecraft:armor.horse_armor",
+          "amount": 5,
+          "operation": "add_value",
+          "slot": "body"
+        },
+        {
+          "type": "minecraft:generic.movement_speed",
+          "id": "minecraft:armor.horse_armor",
+          "amount": -0.045,
+          "operation": "add_multiplied_base",
+          "slot": "body"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "c:ropes"
+    },
+    "-": {
+      "item": "farmersdelight:canvas"
+    }
+  },
+  "pattern": [
+    "#",
+    "-"
+  ],
+  "result": {
+    "id": "minecraft:name_tag"
+  }
+}

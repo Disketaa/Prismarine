@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cutting",
+  "tool": {
+    "tag": "c:tools/axe"
+  },
+  "ingredients": [
+    {
+      "item": "nears:near_twig_block"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "nears:near_twig"
+      }
+    }
+  ]
+}

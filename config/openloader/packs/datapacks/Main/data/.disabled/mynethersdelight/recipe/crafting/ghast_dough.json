@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "nears:cinder_grain"
+    },
+    {
+      "item": "nears:cinder_grain"
+    },
+    {
+      "item": "nears:cinder_grain"
+    }
+  ],
+  "result": {
+    "id": "mynethersdelight:ghast_dough",
+    "count": 3
+  }
+}

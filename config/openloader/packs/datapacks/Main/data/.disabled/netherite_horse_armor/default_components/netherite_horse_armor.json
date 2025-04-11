@@ -1,0 +1,36 @@
+{
+  "add": {
+    "minecraft:attribute_modifiers": {
+      "modifiers": [
+        {
+          "type": "minecraft:generic.armor",
+          "id": "minecraft:armor.horse_armor",
+          "amount": 11,
+          "operation": "add_value",
+          "slot": "chest"
+        },
+        {
+        "type": "minecraft:generic.armor_toughness",
+        "id": "minecraft:armor.horse_armor",
+        "amount": 3,
+        "operation": "add_value",
+        "slot": "chest"
+        },
+        {
+        "type": "minecraft:generic.knockback_resistance",
+        "amount": 0.1,
+        "id": "minecraft:armor.horse_armor",
+        "operation": "add_value",
+        "slot": "chest"
+        },
+        {
+          "type": "minecraft:generic.movement_speed",
+          "id": "minecraft:armor.horse_armor",
+          "amount": -0.09,
+          "operation": "add_multiplied_base",
+          "slot": "chest"
+        }
+      ]
+    }
+  }
+}

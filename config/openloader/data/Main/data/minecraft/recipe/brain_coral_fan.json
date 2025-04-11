@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:brain_coral"
-  },
-  "result": {
-    "id": "minecraft:brain_coral_fan"
-  }
-}

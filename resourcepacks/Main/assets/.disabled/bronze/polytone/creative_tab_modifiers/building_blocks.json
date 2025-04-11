@@ -1,0 +1,28 @@
+{
+  "targets": [
+    "building_blocks"
+  ],
+  "additions": [
+    {
+      "items": [
+        "bronze:tin_block",
+        "bronze:chiseled_tin",
+        "bronze:tin_tiles",
+        "bronze:cut_tin",
+        "bronze:cut_tin_stairs",
+        "bronze:cut_tin_slab",
+        "bronze:bronze_blend_block",
+        "bronze:bronze_block",
+        "bronze:bronze_door_block",
+        "bronze:bronze_trapdoor_block"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:iron_block"
+        ]
+      }
+    }
+  ]
+}

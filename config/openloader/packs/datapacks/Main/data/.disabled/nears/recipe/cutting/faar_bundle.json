@@ -1,0 +1,33 @@
+{
+  "type": "farmersdelight:cutting",
+  "tool": {
+    "tag": "c:tools/knife"
+  },
+  "ingredients": [
+    {
+      "item": "nears:faar_bundle"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "id": "nears:faar",
+        "count": 5
+      }
+    },
+    {
+      "chance": 0.5,
+      "item": {
+        "id": "nears:faar",
+        "count": 2
+      }
+    },
+    {
+      "chance": 0.25,
+      "item": {
+        "id": "nears:faar",
+        "count": 1
+      }
+    }
+  ]
+}

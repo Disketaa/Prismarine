@@ -1,8 +1,0 @@
-{
-  "item": "beltslot:default",
-  "scale": [0.5, 0.5, 0.5],
-  "rotation": [5.0, 0.0, 0.0],
-  "translation": [0.0, 0.0, 0.125],
-  "transformationMode": "GUI",
-  "sway": 0.5
-}
