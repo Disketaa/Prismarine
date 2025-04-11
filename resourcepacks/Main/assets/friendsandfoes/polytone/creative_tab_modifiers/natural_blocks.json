@@ -3,7 +3,7 @@
     "natural_blocks"
   ],
   "removals": [
-    {"type": "id_match", "path": "friendsandfoes"}
+    {"type": "id_match", "namespace": "friendsandfoes"}
   ],
   "additions": [
     {

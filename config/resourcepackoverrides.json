@@ -23,7 +23,9 @@
 
     "Hidden": [
       "high_contrast",
+      "moonlight:mods_dynamic_assets",
       "programmer_art",
+      "supplementaries:darker_ropes",
       "vanilla"
     ],
 

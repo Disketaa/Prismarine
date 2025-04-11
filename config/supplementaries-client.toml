@@ -180,17 +180,17 @@
 	#Allow to right click with a clock to display current time in numerical form
 	clock_right_click = true
 	#Adds an overlay to projectile weapons in gui displaying currently selected ammo
-	projectile_weapon_overlay = true
+	projectile_weapon_overlay = false
 	#Allow to right click with a compass to display current coordinates in numerical form
 	compass_right_click = false
 	#Renders an enchantment glint on placeable enchanted booksNote that turning this on will make book piles use tile renderer instead of baked models making them slower to render
-	placeable_books_glint = false
+	placeable_books_glint = true
 	#Enables banner pattern tooltip image preview
-	banner_pattern_tooltip = true
+	banner_pattern_tooltip = false
 	#Enables paintings tooltip image preview
-	paintings_tooltip = true
+	paintings_tooltip = false
 	#Enables sherds tooltip image preview
-	sherds_tooltip = true
+	sherds_tooltip = false
 	#Size of the tooltip image used for Sherds, Blackboards, Banner patterns and Paintings
 	# Default: 80
 	# Range: 1 ~ 255
@@ -206,7 +206,7 @@
 		#Colors tall grass same color as grass
 		tall_grass_color = true
 		#Makes colored maps a bit more accurate. Might affect performance
-		accurate_colors = false
+		accurate_colors = true
 
 	[items.slingshot]
 		#Adds an overlay to slingshots in gui displaying currently selected ammo
@@ -251,9 +251,9 @@
 		#Allowed Values: HIDDEN, BACK, HIP, THIGH
 		skeleton_render_mode = "THIGH"
 		#Adds an overlay to quivers in gui displaying currently selected arrow
-		overlay = true
+		overlay = false
 		#Allows using your mouse to select an arrow in the quiver GUI
-		mouse_movement_in_gui = true
+		mouse_movement_in_gui = false
 		#Quiver GUI X offset from default position
 		# Default: 0
 		# Range: -1000 ~ 1000
