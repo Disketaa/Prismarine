@@ -1,5 +1,2 @@
 type = customizablemenus
 
-io.github.kosmx.emotes.arch.screen.ingame.FastMenuScreen {
-}
-

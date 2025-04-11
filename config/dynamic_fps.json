@@ -1,0 +1,17 @@
+{
+  "uncap_menu_frame_rate": true,
+  "states": {
+    "hovered": {
+      "enable_vsync": true
+    },
+    "unfocused": {
+      "frame_rate_target": 0,
+      "enable_vsync": true,
+      "volume_multipliers": {
+        "master": 0.5
+      },
+      "show_toasts": true,
+      "run_garbage_collector": true
+    }
+  }
+}

@@ -1,9 +1,0 @@
-{
-  "keys": [
-    "arts_and_crafts:cork_boat",
-    "arts_and_crafts:cork_chest_boat"
-  ],
-  "soundEvent": "arts_and_crafts:block.cork.place",
-  "volume": 0.75,
-  "pitch": 1.75
-}

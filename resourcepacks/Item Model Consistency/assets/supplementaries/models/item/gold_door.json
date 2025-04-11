@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/template_door",
-  "textures": {
-    "bottom": "supplementaries:block/gold_door_bottom",
-    "top": "supplementaries:block/gold_door_top"
-  }
-}

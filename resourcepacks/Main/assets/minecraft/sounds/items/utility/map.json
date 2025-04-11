@@ -1,8 +1,0 @@
-{
-  "keys": [
-    "minecraft:filled_map",
-    "minecraft:map",
-    "supplementaries:slice_map"
-  ],
-  "soundEvent": "minecraft:item.book.page_turn"
-}

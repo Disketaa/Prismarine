@@ -1,9 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    "#c:seeds",
-    "friendsandfoes:crab_egg",
-    "minecraft:egg",
-    "minecraft:turtle_egg"
-  ]
-}

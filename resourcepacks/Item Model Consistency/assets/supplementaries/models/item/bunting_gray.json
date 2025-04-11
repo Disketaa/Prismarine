@@ -1,6 +1,0 @@
-{
-  "parent": "supplementaries:item/template_bunting",
-  "textures": {
-    "all": "supplementaries:block/buntings/bunting_gray"
-  }
-}

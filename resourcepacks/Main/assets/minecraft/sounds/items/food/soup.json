@@ -1,9 +1,0 @@
-{
-  "keys": [
-    "#c:foods/soup",
-    "farmersdelight:tomato_sauce"
-  ],
-  "soundEvent": "minecraft:entity.mooshroom.suspicious_milk",
-  "volume": 0.5,
-  "pitch": 1.6
-}

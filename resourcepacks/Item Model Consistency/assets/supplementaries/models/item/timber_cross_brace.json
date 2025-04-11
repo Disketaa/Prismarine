@@ -1,7 +1,0 @@
-{
-  "parent": "supplementaries:block/timber_cross_brace",
-  "textures": {
-    "1": "supplementaries:block/timber_cross_brace",
-    "2": "supplementaries:block/timber_cross_brace"
-  }
-}

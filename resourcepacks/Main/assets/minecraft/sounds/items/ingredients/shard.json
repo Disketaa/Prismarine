@@ -1,9 +1,0 @@
-{
-  "keys": [
-    "#minecraft:decorated_pot_sherds",
-    "friendsandfoes:wildfire_crown_fragment",
-    "minecraft:disc_fragment_5",
-    "minecraft:prismarine_shard"
-  ],
-  "soundEvent": "minecraft:block.decorated_pot.step"
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "supplementaries:item/template_sconce",
-  "textures": {
-    "0": "supplementaries:block/sconce",
-    "1": "supplementaries:block/sconce_fire_glow"
-  }
-}

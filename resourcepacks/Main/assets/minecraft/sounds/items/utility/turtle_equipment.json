@@ -1,8 +1,0 @@
-{
-  "keys": [
-    "minecraft:turtle_helmet"
-  ],
-  "soundEvent": "minecraft:item.armor.equip_turtle",
-  "volume": 0.5,
-  "pitch": 1.75
-}

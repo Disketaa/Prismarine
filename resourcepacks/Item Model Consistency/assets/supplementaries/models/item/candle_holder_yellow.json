@@ -1,7 +1,0 @@
-{
-  "parent": "supplementaries:item/template_candle_holder",
-  "textures": {
-    "all": "minecraft:block/yellow_candle",
-    "2": "supplementaries:block/candle_holder"
-  }
-}

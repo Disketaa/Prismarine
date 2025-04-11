@@ -1,9 +1,0 @@
-{
-  "keys": [
-    "#c:buckets/entity_water",
-    "#c:buckets/water",
-    "minecraft:lava_bucket",
-    "supplementaries:lumisene_bucket"
-  ],
-  "soundEvent": "minecraft:item.bucket.fill"
-}

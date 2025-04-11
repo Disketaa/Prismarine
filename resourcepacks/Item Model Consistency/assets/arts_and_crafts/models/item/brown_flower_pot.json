@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/template_flower_pot",
-  "textures": {
-    "flowerpot": "arts_and_crafts:block/brown_flower_pot",
-    "dirt": "minecraft:block/dirt"
-  }
-}
