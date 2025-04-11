@@ -1,0 +1,30 @@
+{
+  "targets": [
+    "functional_blocks"
+  ],
+  "removals": [
+    {"type": "id_match", "path": "friendsandfoes"}
+  ],
+  "additions": [
+    {
+      "items": [
+        "friendsandfoes:spruce_beehive",
+        "friendsandfoes:birch_beehive",
+        "friendsandfoes:jungle_beehive",
+        "friendsandfoes:acacia_beehive",
+        "friendsandfoes:dark_oak_beehive",
+        "friendsandfoes:mangrove_beehive",
+        "friendsandfoes:cherry_beehive",
+        "friendsandfoes:bamboo_beehive",
+        "friendsandfoes:crimson_beehive",
+        "friendsandfoes:warped_beehive"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:beehive"
+        ]
+      }
+    }
+  ]
+}

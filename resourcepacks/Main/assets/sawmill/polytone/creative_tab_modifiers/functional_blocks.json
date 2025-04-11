@@ -1,0 +1,22 @@
+{
+  "targets": [
+    "functional_blocks"
+  ],
+  "removals": [
+    {"type": "id_match", "path": "sawmill"}
+  ],
+  "additions": [
+    {
+      "items": [
+        "sawmill:sawmill"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:stonecutter"
+        ]
+      }
+    }
+  ]
+}

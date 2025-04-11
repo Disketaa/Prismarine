@@ -1,0 +1,33 @@
+{
+  "targets": [
+    "natural_blocks"
+  ],
+  "removals": [
+    {"type": "id_match", "path": "friendsandfoes"}
+  ],
+  "additions": [
+    {
+      "items": [
+        "friendsandfoes:buttercup"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:dandelion"
+        ]
+      }
+    },
+    {
+      "items": [
+        "friendsandfoes:crab_egg"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:turtle_egg"
+        ]
+      }
+    }
+  ]
+}

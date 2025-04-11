@@ -1,0 +1,22 @@
+{
+  "targets": [
+    "food_and_drinks"
+  ],
+  "removals": [
+    {"type": "id_match", "path": "pancake"}
+  ],
+  "additions": [
+    {
+      "items": [
+        "supplementaries:pancake"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:cake"
+        ]
+      }
+    }
+  ]
+}

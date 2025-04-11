@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "farmersdelight:canvas"
+    },
+    "-": {
+      "tag": "minecraft:wool_carpets"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#-#",
+    "###"
+  ],
+  "result": {
+    "id": "supplementaries:lunch_basket"
+  }
+}

@@ -1,5 +1,5 @@
 #Align player to camera on left & right clicks
-aimPlayerOnInteract = true
+aimPlayerOnInteract = false
 #How long player will be aligned to camera after left & right clicks
 # Default: 40
 # Range: 10 ~ 200

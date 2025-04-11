@@ -1,0 +1,45 @@
+{
+  "targets": [
+    "redstone_blocks"
+  ],
+  "removals": [
+    {"type": "id_match", "path": "friendsandfoes"}
+  ],
+  "additions": [
+    {
+      "items": [
+        "friendsandfoes:copper_button",
+        "friendsandfoes:exposed_copper_button",
+        "friendsandfoes:weathered_copper_button",
+        "friendsandfoes:oxidized_copper_button",
+        "friendsandfoes:waxed_copper_button",
+        "friendsandfoes:waxed_exposed_copper_button",
+        "friendsandfoes:waxed_weathered_copper_button",
+        "friendsandfoes:waxed_oxidized_copper_button"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:stone_button"
+        ]
+      }
+    },
+    {
+      "items": [
+        "friendsandfoes:exposed_lightning_rod",
+        "friendsandfoes:weathered_lightning_rod",
+        "friendsandfoes:oxidized_lightning_rod",
+        "friendsandfoes:waxed_lightning_rod",
+        "friendsandfoes:waxed_exposed_lightning_rod",
+        "friendsandfoes:waxed_weathered_lightning_rod",
+        "friendsandfoes:waxed_oxidized_lightning_rod"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:lightning_rod"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+	"isHoldToAttackEnabled": false,
+	"isMiningWithWeaponsEnabled": true,
+	"isSwingThruGrassEnabled": true,
+	"isAttackInsteadOfMineWhenEnemiesCloseEnabled": false,
+	"isHighlightCrosshairEnabled": false,
+	"hudHighlightColor": 16711680,
+	"isShowingArmsInFirstPerson": false,
+	"isShowingOtherHandFirstPerson": true,
+	"isSweepingParticleEnabled": true,
+	"isTooltipAttackRangeEnabled": true,
+	"isTooltipAttackRangeReformat": false,
+	"weaponSwingSoundVolume": 100,
+	"isDebugOBBEnabled": false,
+	"swingThruGrassBlacklist": "knife",
+	"mineWithWeaponBlacklist": "",
+	"firstPersonAnimations": "AUTO",
+	"legAnimationThreshold": 0.0
+}
