@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "c:storage_blocks/tin"
+  },
+  "result": {
+    "id": "kubejs:cut_tin_slab",
+    "count": 8
+  }
+}

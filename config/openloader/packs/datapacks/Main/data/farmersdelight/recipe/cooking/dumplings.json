@@ -10,21 +10,7 @@
       "tag": "c:crops/onion"
     },
     {
-      "fabric:type": "fabric:any",
-      "ingredients": [
-        {
-          "tag": "c:foods/raw_chicken"
-        },
-        {
-          "tag": "c:foods/raw_pork"
-        },
-        {
-          "tag": "c:foods/raw_beef"
-        },
-        {
-          "item": "minecraft:brown_mushroom"
-        }
-      ]
+      "tag": "c:foods/raw_meat"
     }
   ],
   "container": {

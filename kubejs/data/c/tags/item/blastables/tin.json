@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#c:storage_blocks/tin",
+    "kubejs:chiseled_tin",
+    "kubejs:tin_grate",
+    "kubejs:cut_tin",
+    "kubejs:cut_tin_stairs",
+    "kubejs:cut_tin_slab"
+  ]
+}

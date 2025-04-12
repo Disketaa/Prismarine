@@ -1,10 +1,8 @@
 {
   "values": [
-  "arts_and_crafts:cork_sapling",
   "minecraft:birch_sapling",
   "minecraft:cherry_sapling",
   "minecraft:dark_oak_sapling",
-  "minecraft:spruce_sapling",
-  "nears:soul_berry_pips"
+  "minecraft:spruce_sapling"
   ]
 }

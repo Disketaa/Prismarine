@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "c:nuggets/copper"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:feather"
+    }
+  },
+  "pattern": [
+    "X",
+    "#",
+    "I"
+  ],
+  "result": {
+    "id": "minecraft:brush"
+  }
+}

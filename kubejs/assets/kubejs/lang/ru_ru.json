@@ -1,0 +1,13 @@
+{
+  "block.kubejs.chiseled_tin": "Точёный оловянный блок",
+  "block.kubejs.cut_tin": "Резной оловянный блок",
+  "block.kubejs.cut_tin_slab": "Резная оловянная плита",
+  "block.kubejs.cut_tin_stairs": "Резные оловянные ступеньки",
+  "block.kubejs.tin_block": "Оловянный блок",
+  "block.kubejs.tin_grate": "Оловянная решётка",
+  "item.kubejs.copper_nugget": "Кусочек меди",
+  "item.kubejs.tin_ingot": "Оловянный слиток",
+  "item.kubejs.tin_nugget": "Кусочек олова",
+  "item.kubejs.wooden_knife": "Деревянный нож",
+  "trim_material.kubejs.tin": "Оловянная"
+}

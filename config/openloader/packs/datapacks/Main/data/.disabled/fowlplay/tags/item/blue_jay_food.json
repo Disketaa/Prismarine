@@ -1,8 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    "#c:seeds",
-    "minecraft:sweet_berries",
-    "minecraft:glow_berries"
-  ]
-}

@@ -1,4 +1,10 @@
 {
-  "allowMovement": {},
+  "allowMovement": {
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "net.mehvahdjukaar.sawmill.SawmillScreen": true,
+    "vectorwing.farmersdelight.client.gui.CookingPotScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "xaero.common.gui.GuiMinimapMain": true
+  },
   "hideBackground": {}
 }

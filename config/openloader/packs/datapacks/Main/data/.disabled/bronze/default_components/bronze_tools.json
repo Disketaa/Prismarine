@@ -1,6 +1,0 @@
-{
-"target": "#bronze:bronze_tools",
-  "add": {
-    "max_damage": 150
-  }
-}

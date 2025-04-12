@@ -5,18 +5,19 @@
   "removals": [
     {"type": "id_match", "path": "copper_ingot"},
     {"type": "id_match", "path": "iron_nugget"},
-    {"type": "id_match", "path": "netherite_scrap"}
+    {"type": "id_match", "path": "netherite_scrap"},
+    {"type": "id_match", "path": "raw_copper"}
   ],
   "additions": [
     {
       "items": [
-        "minecraft:copper_ingot"
+        "minecraft:raw_copper"
       ],
       "before": true,
       "predicate": {
         "type": "items_match",
         "items": [
-          "minecraft:iron_ingot"
+          "minecraft:raw_iron"
         ]
       }
     },
@@ -29,6 +30,18 @@
         "type": "items_match",
         "items": [
           "minecraft:gold_nugget"
+        ]
+      }
+    },
+    {
+      "items": [
+        "minecraft:copper_ingot"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:iron_ingot"
         ]
       }
     },

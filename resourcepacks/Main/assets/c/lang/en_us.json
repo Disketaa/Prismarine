@@ -1,0 +1,12 @@
+{
+  "tag.item.c.bamboo": "Bamboo",
+  "tag.item.c.blastables.copper": "Blastable Copper",
+  "tag.item.c.blastables.gold": "Blastable Gold",
+  "tag.item.c.blastables.iron": "Blastable Iron",
+  "tag.item.c.blastables.waxed_copper": "Blastable Waxed Copper",
+  "tag.item.c.foods.contains_bread" : "Contains Bread",
+  "tag.item.c.smeltables.copper": "Smeltable Copper",
+  "tag.item.c.smeltables.gold": "Smeltable Gold",
+  "tag.item.c.smeltables.iron": "Smeltable Iron",
+  "tag.item.c.tools.wooden": "Wooden Tools"
+}

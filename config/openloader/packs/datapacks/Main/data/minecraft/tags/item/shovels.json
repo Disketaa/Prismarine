@@ -2,7 +2,6 @@
   "replace": true,
   "values": [
     "minecraft:wooden_shovel",
-    "bronze:bronze_shovel",
     "minecraft:iron_shovel",
     "minecraft:golden_shovel",
     "minecraft:diamond_shovel",

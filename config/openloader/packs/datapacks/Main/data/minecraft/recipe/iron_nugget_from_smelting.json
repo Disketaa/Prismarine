@@ -4,7 +4,7 @@
   "experience": 0.1,
   "ingredient": [
     {
-      "tag": "minecraft:iron_smeltables"
+      "tag": "c:smeltables/iron"
     }
   ],
   "result": {

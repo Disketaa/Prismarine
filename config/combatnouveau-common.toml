@@ -11,7 +11,7 @@ increase_stack_size = false
 	#Makes it so that swords, hoes, and tridents have an increased reach when attacking.
 	#Default Value: true
 	#Requires Restart: Game
-	additional_entity_interaction_range = true
+	additional_entity_interaction_range = false
 	#Overrides for setting and balancing attack speed values of items.
 	#As with all items, this value is added on top of the default attack speed of the player (which is 4.0 by default).
 	#Format for every entry is "<namespace>:<path>,<amount>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. May use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*_shulker_box" to match all shulker boxes no matter of color.

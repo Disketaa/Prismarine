@@ -4,7 +4,7 @@
   "experience": 0.1,
   "ingredient": [
     {
-      "tag": "minecraft:iron_blastables"
+      "tag": "c:blastables/iron"
     }
   ],
   "result": {

@@ -1,0 +1,19 @@
+{
+  "targets": [
+    "combat"
+  ],
+  "additions": [
+    {
+      "items": [
+        "kubejs:wooden_knife"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:wooden_sword"
+        ]
+      }
+    }
+  ]
+}
