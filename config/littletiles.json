@@ -1,0 +1,113 @@
+{
+  "core": {
+    "highest": 32
+  },
+  "general": {
+    "allowFlowingWater": false,
+    "allowFlowingLava": false,
+    "storagePerPixel": 40.0,
+    "enableBed": false,
+    "enableAnimationCollision": true,
+    "enableCollisionMotion": true,
+    "dyeVolume": 2.0,
+    "maxAllowedDensity": 16,
+    "maxDoorDistance": 512,
+    "messageStructureLength": 0
+  },
+  "build": {
+    "default": {
+      "harvestLevelBlock": "WOOD",
+      "editUnbreakable": false,
+      "minimumTransparency": 255,
+      "affectedBlockLimit": {
+        "enabled": false,
+        "content": 4
+      },
+      "editBlockLimit": {
+        "enabled": true,
+        "content": 4
+      },
+      "placeBlockLimit": {
+        "enabled": true,
+        "content": 4
+      },
+      "blueprintSizeLimit": {
+        "enabled": true,
+        "content": 4
+      },
+      "gridLimit": {
+        "enabled": true,
+        "content": 4
+      },
+      "defaultGrid": 4
+    },
+    "survival": {
+      "harvestLevelBlock": "STONE",
+      "editUnbreakable": false,
+      "minimumTransparency": 255,
+      "affectedBlockLimit": {
+        "enabled": false,
+        "content": 4
+      },
+      "editBlockLimit": {
+        "enabled": true,
+        "content": 4
+      },
+      "placeBlockLimit": {
+        "enabled": true,
+        "content": 4
+      },
+      "blueprintSizeLimit": {
+        "enabled": true,
+        "content": 4
+      },
+      "gridLimit": {
+        "enabled": true,
+        "content": 4
+      },
+      "defaultGrid": 4
+    },
+    "creative": {
+      "harvestLevelBlock": "DIAMOND",
+      "editUnbreakable": true,
+      "minimumTransparency": 0,
+      "affectedBlockLimit": {
+        "enabled": false,
+        "content": 4
+      },
+      "editBlockLimit": {
+        "enabled": true,
+        "content": 4
+      },
+      "placeBlockLimit": {
+        "enabled": true,
+        "content": 4
+      },
+      "blueprintSizeLimit": {
+        "enabled": true,
+        "content": 4
+      },
+      "gridLimit": {
+        "enabled": true,
+        "content": 4
+      },
+      "defaultGrid": 4
+    }
+  },
+  "signal": {
+    "overallDurationScale": 1,
+    "andDuration": 0.1,
+    "orDuration": 0.01,
+    "xorDuration": 0.2,
+    "bandDuration": 0.2,
+    "borDuration": 0.02,
+    "bxorDuration": 0.4,
+    "notDuration": 0.01,
+    "bnotDuration": 0.02,
+    "variableDuration": 0.01,
+    "addDuration": 0.5,
+    "subDuration": 0.5,
+    "mulDuration": 0.5,
+    "divDuration": 5
+  }
+}

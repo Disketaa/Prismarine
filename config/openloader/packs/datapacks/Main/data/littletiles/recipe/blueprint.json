@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "c:gems/amethyst"
+    },
+    "-": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "---",
+    "-#-",
+    "---"
+  ],
+  "result": {
+    "id": "littletiles:blueprint"
+  }
+}

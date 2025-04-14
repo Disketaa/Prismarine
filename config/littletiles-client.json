@@ -1,0 +1,24 @@
+{
+  "building": {
+    "invertStickToGrid": false,
+    "maxSavedActions": 32,
+    "useALTForEverything": false,
+    "useAltWhenFlying": false,
+    "lowResolutionBoxCount": 2000
+  },
+  "rendering": {
+    "useQuadCache": true,
+    "useCubeCache": true,
+    "renderingThreadCount": 2,
+    "highlightStructureBox": false,
+    "previewLines": false,
+    "previewLineThickness": 2,
+    "enableRandomDisplayTick": true,
+    "uploadToVBODirectly": true,
+    "showTooltip": false,
+    "itemCacheDuration": 5000,
+    "itemLowResolutionBoxCount": 1000,
+    "entityCacheBuildThreads": 1,
+    "connectedShapeBlocksLimit": 128
+  }
+}

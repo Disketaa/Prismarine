@@ -1,0 +1,20 @@
+{
+  "targets": [
+    "tools_and_utilities"
+  ],
+  "additions": [
+    {
+      "items": [
+        "littletiles:hammer",
+        "littletiles:chisel",
+        "littletiles:blueprint"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:spyglass"
+        ]
+      }
+    }
+  ]
+}

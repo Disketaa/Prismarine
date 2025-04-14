@@ -5,6 +5,17 @@
   "additions": [
     {
       "items": [
+        "kubejs:raw_tin"
+      ],
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:raw_copper"
+        ]
+      }
+    },
+    {
+      "items": [
         "kubejs:copper_nugget",
         "kubejs:tin_nugget"
       ],

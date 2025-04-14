@@ -4,7 +4,11 @@
     "net.mehvahdjukaar.sawmill.SawmillScreen": true,
     "vectorwing.farmersdelight.client.gui.CookingPotScreen": true,
     "xaero.map.gui.GuiMap": true,
-    "xaero.common.gui.GuiMinimapMain": true
+    "xaero.common.gui.GuiMinimapMain": true,
+    "xfacthd.framedblocks.client.screen.FramedSignScreen": true,
+    "xaero.map.gui.GuiWorldMapSettings": true,
+    "dev.latvian.mods.kubejs.client.KubeJSErrorScreen": true,
+    "team.creative.creativecore.common.gui.integration.ContainerScreenIntegration": true
   },
   "hideBackground": {}
 }

@@ -4,6 +4,7 @@
     "supported_formats": [15, 99],
     "description": {
       "translate": "dataPack.main.description"
-    }
+    },
+    "patched:has_patches": true
   }
 }

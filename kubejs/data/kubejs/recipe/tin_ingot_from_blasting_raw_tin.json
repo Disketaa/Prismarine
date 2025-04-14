@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "ingredient": {
+    "item": "kubejs:raw_tin"
+  },
+  "result": {
+    "id": "kubejs:tin_ingot"
+  }
+}
