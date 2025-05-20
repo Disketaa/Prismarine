@@ -1,11 +1,11 @@
 {
   "targets": [
-    "combat"
+    "building_blocks"
   ],
   "removals": [
     {
       "type": "id_match",
-      "path": "cannonball"
+      "path": "amethyst_block"
     }
   ]
 }

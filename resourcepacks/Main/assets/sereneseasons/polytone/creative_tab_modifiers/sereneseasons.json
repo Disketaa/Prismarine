@@ -3,6 +3,9 @@
     "sereneseasons:main"
   ],
   "removals": [
-    {"type": "id_match", "namespace": "sereneseasons"}
+    {
+      "type": "id_match",
+      "namespace": "sereneseasons"
+    }
   ]
 }

@@ -3,6 +3,9 @@
     "farmersdelight:farmersdelight"
   ],
   "removals": [
-    {"type": "id_match", "namespace": "farmersdelight"}
+    {
+      "type": "id_match",
+      "namespace": "farmersdelight"
+    }
   ]
 }

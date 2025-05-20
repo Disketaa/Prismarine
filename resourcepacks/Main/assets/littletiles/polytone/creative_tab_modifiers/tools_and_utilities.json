@@ -9,6 +9,7 @@
         "littletiles:chisel",
         "littletiles:blueprint"
       ],
+      "before": false,
       "predicate": {
         "type": "items_match",
         "items": [

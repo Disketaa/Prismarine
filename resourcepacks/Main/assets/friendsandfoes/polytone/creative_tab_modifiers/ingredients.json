@@ -3,13 +3,17 @@
     "ingredients"
   ],
   "removals": [
-    {"type": "id_match", "namespace": "friendsandfoes"}
+    {
+      "type": "id_match",
+      "namespace": "friendsandfoes"
+    }
   ],
   "additions": [
     {
       "items": [
         "friendsandfoes:wildfire_crown_fragment"
       ],
+      "before": false,
       "predicate": {
         "type": "items_match",
         "items": [
@@ -21,6 +25,7 @@
       "items": [
         "friendsandfoes:crab_claw"
       ],
+      "before": false,
       "predicate": {
         "type": "items_match",
         "items": [

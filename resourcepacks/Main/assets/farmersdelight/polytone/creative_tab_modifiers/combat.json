@@ -5,6 +5,8 @@
   "additions": [
     {
       "items": [
+        "harmonium:wooden_knife",
+        "harmonium:bronze_knife",
         "farmersdelight:iron_knife",
         "farmersdelight:golden_knife",
         "farmersdelight:diamond_knife",
@@ -22,6 +24,7 @@
       "items": [
         "farmersdelight:skillet"
       ],
+      "before": false,
       "predicate": {
         "type": "items_match",
         "items": [

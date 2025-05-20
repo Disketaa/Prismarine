@@ -3,7 +3,10 @@
     "food_and_drinks"
   ],
   "removals": [
-    {"type": "id_match", "path": "pancake"}
+    {
+      "type": "id_match",
+      "path": "pancake"
+    }
   ],
   "additions": [
     {

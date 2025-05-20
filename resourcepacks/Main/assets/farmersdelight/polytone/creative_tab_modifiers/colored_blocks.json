@@ -40,6 +40,7 @@
         "farmersdelight:pink_canvas_sign",
         "farmersdelight:pink_hanging_canvas_sign"
       ],
+      "before": false,
       "predicate": {
         "type": "items_match",
         "items": [

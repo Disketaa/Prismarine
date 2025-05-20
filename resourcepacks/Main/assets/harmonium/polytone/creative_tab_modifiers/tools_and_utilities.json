@@ -1,35 +1,32 @@
 {
   "targets": [
-    "natural_blocks"
-  ],
-  "removals": [
-    {
-      "type": "id_match",
-      "namespace": "friendsandfoes"
-    }
+    "tools_and_utilities"
   ],
   "additions": [
     {
       "items": [
-        "friendsandfoes:buttercup"
+        "harmonium:bronze_shovel",
+        "harmonium:bronze_pickaxe",
+        "harmonium:bronze_axe",
+        "harmonium:bronze_hoe"
       ],
       "before": true,
       "predicate": {
         "type": "items_match",
         "items": [
-          "minecraft:dandelion"
+          "minecraft:iron_shovel"
         ]
       }
     },
     {
       "items": [
-        "friendsandfoes:crab_egg"
+        "harmonium:flute"
       ],
-      "before": false,
+      "before": true,
       "predicate": {
         "type": "items_match",
         "items": [
-          "minecraft:turtle_egg"
+          "minecraft:goat_horn"
         ]
       }
     }

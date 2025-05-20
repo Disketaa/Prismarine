@@ -1,71 +1,68 @@
 {
   "targets": [
-    "ingredients"
-  ],
-  "removals": [
-    {
-      "type": "id_match",
-      "path": "copper_ingot"
-    },
-    {
-      "type": "id_match",
-      "path": "iron_nugget"
-    },
-    {
-      "type": "id_match",
-      "path": "netherite_scrap"
-    },
-    {
-      "type": "id_match",
-      "path": "raw_copper"
-    }
+    "combat"
   ],
   "additions": [
     {
       "items": [
-        "minecraft:raw_copper"
+        "harmonium:bronze_sword"
       ],
       "before": true,
       "predicate": {
         "type": "items_match",
         "items": [
-          "minecraft:raw_iron"
+          "minecraft:iron_sword"
         ]
       }
     },
     {
       "items": [
-        "minecraft:iron_nugget"
+        "harmonium:bronze_axe"
       ],
       "before": true,
       "predicate": {
         "type": "items_match",
         "items": [
-          "minecraft:gold_nugget"
+          "minecraft:iron_axe"
         ]
       }
     },
     {
       "items": [
-        "minecraft:copper_ingot"
+        "harmonium:buckler"
       ],
-      "before": true,
+      "before": false,
       "predicate": {
         "type": "items_match",
         "items": [
-          "minecraft:iron_ingot"
+          "minecraft:shield"
         ]
       }
     },
     {
       "items": [
-        "minecraft:netherite_scrap"
+        "harmonium:bronze_helmet",
+        "harmonium:bronze_chestplate",
+        "harmonium:bronze_leggings",
+        "harmonium:bronze_boots"
       ],
       "before": true,
       "predicate": {
         "type": "items_match",
         "items": [
-          "minecraft:ancient_debris"
+          "minecraft:iron_helmet"
+        ]
+      }
+    },
+    {
+      "items": [
+        "harmonium:bronze_horse_armor"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:iron_horse_armor"
         ]
       }
     }

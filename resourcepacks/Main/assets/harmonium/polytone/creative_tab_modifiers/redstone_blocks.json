@@ -1,23 +1,18 @@
 {
   "targets": [
-    "functional_blocks"
-  ],
-  "removals": [
-    {
-      "type": "id_match",
-      "path": "sawmill"
-    }
+    "redstone_blocks"
   ],
   "additions": [
     {
       "items": [
-        "sawmill:sawmill"
+        "harmonium:tin_bulb",
+        "harmonium:bronze_bulb"
       ],
       "before": true,
       "predicate": {
         "type": "items_match",
         "items": [
-          "minecraft:stonecutter"
+          "minecraft:waxed_copper_bulb"
         ]
       }
     }

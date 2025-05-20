@@ -10,6 +10,7 @@
         "farmersdelight:full_tatami_mat",
         "farmersdelight:canvas_rug"
       ],
+      "before": false,
       "predicate": {
         "type": "items_match",
         "items": [

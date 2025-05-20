@@ -3,7 +3,10 @@
     "functional_blocks"
   ],
   "removals": [
-    {"type": "id_match", "path": "farmersdelight:rope"}
+    {
+      "type": "id_match",
+      "path": "farmersdelight:rope"
+    }
   ],
   "additions": [
     {

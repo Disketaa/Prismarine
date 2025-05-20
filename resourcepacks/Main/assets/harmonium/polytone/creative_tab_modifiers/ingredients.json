@@ -1,0 +1,47 @@
+{
+  "targets": [
+    "ingredients"
+  ],
+  "additions": [
+    {
+      "items": [
+        "harmonium:bronze_blend",
+        "harmonium:raw_tin"
+      ],
+      "before": false,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:raw_copper"
+        ]
+      }
+    },
+    {
+      "items": [
+        "harmonium:copper_nugget",
+        "harmonium:tin_nugget",
+        "harmonium:bronze_nugget"
+      ],
+      "before": true,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:iron_nugget"
+        ]
+      }
+    },
+    {
+      "items": [
+        "harmonium:tin_ingot",
+        "harmonium:bronze_ingot"
+      ],
+      "before": false,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:copper_ingot"
+        ]
+      }
+    }
+  ]
+}

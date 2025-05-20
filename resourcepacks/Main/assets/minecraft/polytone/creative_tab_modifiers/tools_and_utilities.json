@@ -3,9 +3,21 @@
     "tools_and_utilities"
   ],
   "removals": [
-    {"type": "id_match", "path": "stone_axe"},
-    {"type": "id_match", "path": "stone_hoe"},
-    {"type": "id_match", "path": "stone_pickaxe"},
-    {"type": "id_match", "path": "stone_shovel"}
+    {
+      "type": "id_match",
+      "path": "stone_axe"
+    },
+    {
+      "type": "id_match",
+      "path": "stone_hoe"
+    },
+    {
+      "type": "id_match",
+      "path": "stone_pickaxe"
+    },
+    {
+      "type": "id_match",
+      "path": "stone_shovel"
+    }
   ]
 }

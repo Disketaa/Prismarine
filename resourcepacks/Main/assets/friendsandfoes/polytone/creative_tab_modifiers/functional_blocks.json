@@ -3,7 +3,10 @@
     "functional_blocks"
   ],
   "removals": [
-    {"type": "id_match", "namespace": "friendsandfoes"}
+    {
+      "type": "id_match",
+      "namespace": "friendsandfoes"
+    }
   ],
   "additions": [
     {
@@ -19,6 +22,7 @@
         "friendsandfoes:crimson_beehive",
         "friendsandfoes:warped_beehive"
       ],
+      "before": false,
       "predicate": {
         "type": "items_match",
         "items": [

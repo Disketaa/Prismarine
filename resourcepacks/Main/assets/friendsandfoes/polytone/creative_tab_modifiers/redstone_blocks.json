@@ -3,11 +3,16 @@
     "redstone_blocks"
   ],
   "removals": [
-    {"type": "id_match", "namespace": "friendsandfoes"}
+    {
+      "type": "id_match",
+      "namespace": "friendsandfoes"
+    }
   ],
   "additions": [
     {
       "items": [
+        "harmonium:tin_button",
+        "harmonium:bronze_button",
         "friendsandfoes:copper_button",
         "friendsandfoes:exposed_copper_button",
         "friendsandfoes:weathered_copper_button",
@@ -17,6 +22,7 @@
         "friendsandfoes:waxed_weathered_copper_button",
         "friendsandfoes:waxed_oxidized_copper_button"
       ],
+      "before": false,
       "predicate": {
         "type": "items_match",
         "items": [
@@ -34,6 +40,7 @@
         "friendsandfoes:waxed_weathered_lightning_rod",
         "friendsandfoes:waxed_oxidized_lightning_rod"
       ],
+      "before": false,
       "predicate": {
         "type": "items_match",
         "items": [

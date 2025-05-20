@@ -3,7 +3,10 @@
     "combat"
   ],
   "removals": [
-    {"type": "id_match", "namespace": "friendsandfoes"}
+    {
+      "type": "id_match",
+      "namespace": "friendsandfoes"
+    }
   ],
   "additions": [
     {
@@ -11,6 +14,7 @@
         "friendsandfoes:totem_of_freezing",
         "friendsandfoes:totem_of_illusion"
       ],
+      "before": false,
       "predicate": {
         "type": "items_match",
         "items": [
@@ -22,6 +26,7 @@
       "items": [
         "friendsandfoes:wildfire_crown"
       ],
+      "before": false,
       "predicate": {
         "type": "items_match",
         "items": [

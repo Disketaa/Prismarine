@@ -3,6 +3,9 @@
     "littletiles:items"
   ],
   "removals": [
-    {"type": "id_match", "namespace": "littletiles"}
+    {
+      "type": "id_match",
+      "namespace": "littletiles"
+    }
   ]
 }

@@ -3,9 +3,18 @@
     "natural_blocks"
   ],
   "removals": [
-    {"type": "id_match", "path": "copper_ore"},
-    {"type": "id_match", "path": "deepslate_copper_ore"},
-    {"type": "id_match", "path": "raw_copper_block"}
+    {
+      "type": "id_match",
+      "path": "copper_ore"
+    },
+    {
+      "type": "id_match",
+      "path": "deepslate_copper_ore"
+    },
+    {
+      "type": "id_match",
+      "path": "raw_copper_block"
+    }
   ],
   "additions": [
     {
@@ -13,6 +22,7 @@
         "minecraft:copper_ore",
         "minecraft:deepslate_copper_ore"
       ],
+      "before": false,
       "predicate": {
         "type": "items_match",
         "items": [
