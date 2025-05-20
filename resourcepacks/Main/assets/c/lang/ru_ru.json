@@ -1,13 +1,6 @@
 {
   "tag.item.c.bamboo": "Стебли",
-  "tag.item.c.blastables.copper": "Выплавляемая медь",
-  "tag.item.c.blastables.gold": "Выплавляемое золото",
-  "tag.item.c.blastables.iron": "Выплавляемое железо",
-  "tag.item.c.blastables.waxed_copper": "Выплавляемая вощёная медь",
   "tag.item.c.foods.contains_bread" : "Содержит хлеб",
   "tag.item.c.foods.dough": "Тесто",
-  "tag.item.c.smeltables.copper": "Переплавляемая медь",
-  "tag.item.c.smeltables.gold": "Переплавляемое золото",
-  "tag.item.c.smeltables.iron": "Переплавляемое железо",
   "tag.item.c.tools.wooden": "Деревянные инструменты"
 }

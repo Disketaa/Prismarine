@@ -23,6 +23,7 @@
 
     "Hidden": [
       "high_contrast",
+      "mod/subtle_effects:resourcepacks/biome_color_water_particles",
       "moonlight:mods_dynamic_assets",
       "programmer_art",
       "supplementaries:darker_ropes",

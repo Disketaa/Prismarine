@@ -1,0 +1,22 @@
+[creative_tab]
+	show_harmonium_creative_tab = false
+	add_harmonium_items_to_other_tabs = false
+
+[generation]
+	tin_generation = true
+	nether_slag_generation = true
+
+[blocks]
+	# Default: 5
+	# Range: 0 ~ 20
+	tin_button_short_press_duration = 5
+	# Default: 10
+	# Range: 0 ~ 20
+	tin_button_long_press_duration = 10
+	# Default: 25
+	# Range: 0 ~ 100
+	tin_button_failure_chance = 25
+
+[items]
+	remove_stone_tools = false
+	remove_flint_knife = false

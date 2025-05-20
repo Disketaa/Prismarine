@@ -32,7 +32,7 @@
     "quad-mstv-mtv:crimson_torch",
     "quad-mstv-mtv:dark_oak_torch"
   ],
-  "enableAnimationSmoothing": true,
+  "enableAnimationSmoothing": false,
   "enableInWorldMapRendering": true,
   "enableOffhandHiding": false,
   "enableRotationLocking": true,

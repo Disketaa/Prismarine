@@ -1,9 +1,0 @@
-{
-  "asset_name": "tin",
-  "description": {
-    "color": "#9E8B69",
-    "translate": "trim_material.kubejs.tin"
-  },
-  "ingredient": "kubejs:tin_ingot",
-  "item_model_index": 0.01
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "kubejs:cut_tin"
-  },
-  "result": {
-    "id": "kubejs:chiseled_tin"
-  }
-}
