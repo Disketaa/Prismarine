@@ -1,0 +1,16 @@
+{
+  "keys": [
+    "harmonium:bronze_axe",
+    "harmonium:bronze_boots",
+    "harmonium:bronze_chestplate",
+    "harmonium:bronze_helmet",
+    "harmonium:bronze_hoe",
+    "harmonium:bronze_horse_armor",
+    "harmonium:bronze_knife",
+    "harmonium:bronze_leggings",
+    "harmonium:bronze_pickaxe",
+    "harmonium:bronze_shovel",
+    "harmonium:bronze_sword"
+  ],
+  "soundEvent": "harmonium:item.armor.equip_bronze"
+}

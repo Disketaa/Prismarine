@@ -1,0 +1,6 @@
+{
+  "parent": "harmonium:item/template_tin_soldier",
+  "textures": {
+    "all": "harmonium:block/white_tin_soldier"
+  }
+}

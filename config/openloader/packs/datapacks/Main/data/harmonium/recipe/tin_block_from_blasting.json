@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 900,
+  "ingredient": {
+    "tag": "c:storage_blocks/raw_tin"
+  },
+  "result": {
+    "id": "harmonium:tin_block"
+  }
+}

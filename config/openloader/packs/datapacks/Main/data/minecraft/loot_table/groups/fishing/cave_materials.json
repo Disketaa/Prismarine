@@ -21,7 +21,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "bronze:raw_tin",
+          "name": "harmonium:raw_tin",
           "weight": 15
         },
         {

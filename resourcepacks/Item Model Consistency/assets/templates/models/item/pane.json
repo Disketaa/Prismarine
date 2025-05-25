@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/template_glass_pane",
-  "textures": {
-    "pane": "minecraft:block/scaffolding_top",
-    "edge": "minecraft:block/scaffolding_top"
-  }
-}

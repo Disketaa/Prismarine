@@ -1,0 +1,6 @@
+{
+  "keys": [
+    "harmonium:buckler"
+  ],
+  "soundEvent": "harmonium:item.buckler.equip"
+}

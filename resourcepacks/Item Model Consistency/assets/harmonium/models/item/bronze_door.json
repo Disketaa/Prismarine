@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/template_door",
+  "textures": {
+    "bottom": "harmonium:block/bronze_door_bottom",
+    "top": "harmonium:block/bronze_door_top"
+  }
+}

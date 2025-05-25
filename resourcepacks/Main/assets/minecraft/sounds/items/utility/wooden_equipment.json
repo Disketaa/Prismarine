@@ -2,7 +2,7 @@
   "replace": true,
   "keys": [
     "#minecraft:arrows",
-    "kubejs:wooden_knife",
+    "harmonium:wooden_knife",
     "minecraft:bow",
     "minecraft:carrot_on_a_stick",
     "minecraft:crossbow",

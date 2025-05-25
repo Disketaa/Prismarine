@@ -1,0 +1,11 @@
+{
+  "removed": [
+    "item:farmersdelight:flint_knife",
+    "item:minecraft:stone_axe",
+    "item:minecraft:stone_hoe",
+    "item:minecraft:stone_pickaxe",
+    "item:minecraft:stone_shovel",
+    "item:minecraft:stone_sword"
+  ],
+  "disable": true
+}

@@ -1,0 +1,7 @@
+{
+  "keys": [
+    "harmonium:flute"
+  ],
+  "soundEvent": "harmonium:block.tin.place",
+  "pitch": 2.0
+}

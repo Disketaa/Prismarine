@@ -11,19 +11,5 @@
       "type": "id_match",
       "path": "stone_sword"
     }
-  ],
-  "additions": [
-    {
-      "items": [
-        "minecraft:stone_sword"
-      ],
-      "before": true,
-      "predicate": {
-        "type": "items_match",
-        "items": [
-          "minecraft:mace"
-        ]
-      }
-    }
   ]
 }

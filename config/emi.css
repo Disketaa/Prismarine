@@ -103,7 +103,7 @@
 	/**
 	 * Whether the EMI config button should be visible.
 	 */
-	emi-config-button-visibility: hidden;
+	emi-config-button-visibility: shown;
 
 	/**
 	 * Whether the recipe tree button should be visible.
@@ -458,7 +458,7 @@
 	/**
 	 * Whether to log untranslated tags as warnings.
 	 */
-	log-untranslated-tags: false;
+	log-untranslated-tags: true;
 
 	/**
 	 * Whether to log ingredients that don't have a representative tag as warnings.

@@ -8,7 +8,8 @@
     "xfacthd.framedblocks.client.screen.FramedSignScreen": true,
     "xaero.map.gui.GuiWorldMapSettings": true,
     "dev.latvian.mods.kubejs.client.KubeJSErrorScreen": true,
-    "team.creative.creativecore.common.gui.integration.ContainerScreenIntegration": true
+    "team.creative.creativecore.common.gui.integration.ContainerScreenIntegration": true,
+    "xaero.common.gui.GuiWaypoints": true
   },
   "hideBackground": {}
 }

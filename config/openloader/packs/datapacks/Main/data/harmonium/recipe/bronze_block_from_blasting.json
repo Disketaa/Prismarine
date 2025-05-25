@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 2,
+  "cookingtime": 900,
+  "ingredient": {
+    "tag": "c:storage_blocks/raw_bronze"
+  },
+  "result": {
+    "id": "harmonium:bronze_block"
+  }
+}
