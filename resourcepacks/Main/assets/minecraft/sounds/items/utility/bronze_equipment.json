@@ -10,7 +10,9 @@
     "harmonium:bronze_leggings",
     "harmonium:bronze_pickaxe",
     "harmonium:bronze_shovel",
-    "harmonium:bronze_sword"
+    "harmonium:bronze_sword",
+    "supplementaries:altimeter",
+    "supplementaries:wrench"
   ],
   "soundEvent": "harmonium:item.armor.equip_bronze"
 }

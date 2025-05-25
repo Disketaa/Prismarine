@@ -1,0 +1,9 @@
+{
+  "keys": [
+    "littletiles:blueprint",
+    "littletiles:chisel",
+    "littletiles:hammer"
+  ],
+  "soundEvent": "minecraft:block.amethyst_block.place",
+  "pitch": 1.2
+}
