@@ -11,8 +11,8 @@ enable_system_global_packs = false
 # This config allows you to add or remove folders or single files as Data-/Resourcepacks
 # For that simply specify the file path to the folder/file relative to your <instance> folder
 [resourcepacks]
-  required = [""]
+	required = [""]
 
 [datapacks]
-  required = ["datapacks/"]
-  optional = [""]
+	required = ["datapacks/"]
+	optional = [""]
