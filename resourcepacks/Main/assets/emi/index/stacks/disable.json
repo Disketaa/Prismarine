@@ -5,7 +5,8 @@
     "item:minecraft:stone_hoe",
     "item:minecraft:stone_pickaxe",
     "item:minecraft:stone_shovel",
-    "item:minecraft:stone_sword"
+    "item:minecraft:stone_sword",
+    "item:supplementaries:flute"
   ],
   "disable": true
 }

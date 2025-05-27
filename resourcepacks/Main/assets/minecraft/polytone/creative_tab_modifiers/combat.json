@@ -5,10 +5,12 @@
   "removals": [
     {
       "type": "id_match",
+      "namespace": "minecraft",
       "path": "stone_axe"
     },
     {
       "type": "id_match",
+      "namespace": "minecraft",
       "path": "stone_sword"
     }
   ]

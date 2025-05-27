@@ -5,6 +5,7 @@
   "removals": [
     {
       "type": "id_match",
+      "namespace": "sawmill",
       "path": "sawmill"
     }
   ],

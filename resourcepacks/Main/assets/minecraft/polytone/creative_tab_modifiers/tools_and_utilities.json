@@ -5,18 +5,22 @@
   "removals": [
     {
       "type": "id_match",
+      "namespace": "minecraft",
       "path": "stone_axe"
     },
     {
       "type": "id_match",
+      "namespace": "minecraft",
       "path": "stone_hoe"
     },
     {
       "type": "id_match",
+      "namespace": "minecraft",
       "path": "stone_pickaxe"
     },
     {
       "type": "id_match",
+      "namespace": "minecraft",
       "path": "stone_shovel"
     }
   ]

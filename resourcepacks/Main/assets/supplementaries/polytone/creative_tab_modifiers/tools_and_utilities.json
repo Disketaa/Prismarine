@@ -1,0 +1,12 @@
+{
+  "targets": [
+    "tools_and_utilities"
+  ],
+  "removals": [
+    {
+      "type": "id_match",
+      "namespace": "supplementaries",
+      "path": "flute"
+    }
+  ]
+}

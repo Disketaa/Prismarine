@@ -5,18 +5,22 @@
   "removals": [
     {
       "type": "id_match",
+      "namespace": "minecraft",
       "path": "copper_ingot"
     },
     {
       "type": "id_match",
+      "namespace": "minecraft",
       "path": "iron_nugget"
     },
     {
       "type": "id_match",
+      "namespace": "minecraft",
       "path": "netherite_scrap"
     },
     {
       "type": "id_match",
+      "namespace": "minecraft",
       "path": "raw_copper"
     }
   ],

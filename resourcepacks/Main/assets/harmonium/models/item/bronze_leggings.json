@@ -1,0 +1,86 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "harmonium:item/bronze_leggings"
+  },
+  "overrides": [
+    {
+      "model": "harmonium:item/bronze_leggings_quartz_trim",
+      "predicate": {
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "harmonium:item/bronze_leggings_tin_trim",
+      "predicate": {
+        "trim_type": 0.15
+      }
+    },
+    {
+      "model": "harmonium:item/bronze_leggings_tin_trim",
+      "predicate": {
+        "trim_type": 0.15
+      }
+    },
+    {
+      "model": "harmonium:item/bronze_leggings_iron_trim",
+      "predicate": {
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "harmonium:item/bronze_leggings_netherite_trim",
+      "predicate": {
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "harmonium:item/bronze_leggings_redstone_trim",
+      "predicate": {
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "harmonium:item/bronze_leggings_copper_trim",
+      "predicate": {
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "harmonium:item/bronze_leggings_bronze_darker_trim",
+      "predicate": {
+        "trim_type": 0.55
+      }
+    },
+    {
+      "model": "harmonium:item/bronze_leggings_gold_trim",
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "harmonium:item/bronze_leggings_emerald_trim",
+      "predicate": {
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "harmonium:item/bronze_leggings_diamond_trim",
+      "predicate": {
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "harmonium:item/bronze_leggings_lapis_trim",
+      "predicate": {
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "harmonium:item/bronze_leggings_amethyst_trim",
+      "predicate": {
+        "trim_type": 1.0
+      }
+    }
+  ]
+}

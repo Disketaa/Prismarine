@@ -5,14 +5,17 @@
   "removals": [
     {
       "type": "id_match",
+      "namespace": "minecraft",
       "path": "copper_ore"
     },
     {
       "type": "id_match",
+      "namespace": "minecraft",
       "path": "deepslate_copper_ore"
     },
     {
       "type": "id_match",
+      "namespace": "minecraft",
       "path": "raw_copper_block"
     }
   ],
