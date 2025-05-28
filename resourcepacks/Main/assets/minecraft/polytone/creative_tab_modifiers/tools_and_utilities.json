@@ -22,6 +22,42 @@
       "type": "id_match",
       "namespace": "minecraft",
       "path": "stone_shovel"
+    },
+    {
+      "type": "id_match",
+      "path": "music_disc"
+    }
+  ],
+  "additions": [
+    {
+      "items": [
+        "minecraft:music_disc_11",
+        "supplementaries:music_disc_heave_ho",
+        "minecraft:music_disc_relic",
+        "minecraft:music_disc_pigstep",
+        "minecraft:music_disc_creator_music_box",
+        "minecraft:music_disc_blocks",
+        "minecraft:music_disc_chirp",
+        "minecraft:music_disc_precipice",
+        "minecraft:music_disc_creator",
+        "minecraft:music_disc_13",
+        "minecraft:music_disc_far",
+        "friendsandfoes:music_disc_around_the_corner",
+        "minecraft:music_disc_cat",
+        "minecraft:music_disc_ward",
+        "minecraft:music_disc_otherside",
+        "minecraft:music_disc_wait",
+        "minecraft:music_disc_mellohi",
+        "minecraft:music_disc_mall",
+        "minecraft:music_disc_5"
+      ],
+      "before": false,
+      "predicate": {
+        "type": "items_match",
+        "items": [
+          "minecraft:tnt_minecart"
+        ]
+      }
     }
   ]
 }
