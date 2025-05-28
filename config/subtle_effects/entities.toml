@@ -86,7 +86,7 @@ sounds = true
 extinguishSteam = true
 
 [itemRarity]
-particlesDisplayType = "NOT_COMMON"
+particlesDisplayType = "OFF"
 particleColorType = "RARITY_COLOR"
 mixedColorName = true
 useItemBorder = true
