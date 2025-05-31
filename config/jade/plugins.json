@@ -1,8 +1,4 @@
 {
-  "framedblocks": {
-    "framed_item_frame": true,
-    "framed_block_generic": true
-  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": false,
@@ -55,6 +51,11 @@
     "potion_effects": false,
     "painting": true,
     "chiseled_bookshelf": false
+  },
+  "treechop": {
+    "plugin": false,
+    "show_tree_block_counts": false,
+    "show_num_chops_remaining": false
   },
   "jade_access": {
     "held_item": true,
