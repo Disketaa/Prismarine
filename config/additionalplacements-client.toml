@@ -11,9 +11,9 @@
 	# Range: 0 ~ 9223372036854775807
 	toggle_quickpress_time = 500
 	#Whether to enable the rendering of the placement grid and/or preview.
-	enable_placement_highlights = false
+	enable_placement_highlights = true
 	#The color of the placement grid, in AARRGGBB hex format.
-	grid_color = "66000000"
+	grid_color = "44000000"
 	#The color of the placement preview (currently used in stairs without mixed placement), in AARRGGBB hex format.
 	preview_color = "66FFFFFF"
 
