@@ -182,7 +182,7 @@
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
 	 */
-	left-sidebar-margins: 0, 2, 0, 0;
+	left-sidebar-margins: 0, -1, 0, 0;
 
 	/**
 	 * Where to position the left sidebar

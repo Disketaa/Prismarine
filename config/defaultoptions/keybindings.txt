@@ -11,7 +11,7 @@ key_iris.keybind.reload:key.keyboard.unknown:
 key_iris.keybind.toggleShaders:key.keyboard.unknown:
 key_iris.keybind.shaderPackSelection:key.keyboard.left.bracket:
 key_iris.keybind.wireframe:key.keyboard.unknown:
-key_key.clientsort.group.sort:key.keyboard.r:
+key_key.clientsort.group.sort:key.mouse.middle:
 key_key.additionalplacements.placement_toggle:key.keyboard.x:
 key_key.spyglass-improvements.use:key.keyboard.c:
 key_key.bridgingmod.toggle_bridging:key.keyboard.unknown:
