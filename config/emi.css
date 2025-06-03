@@ -51,7 +51,7 @@
 	/**
 	 * Where to display status effects in the inventory.
 	 */
-	effect-location: top;
+	effect-location: right;
 
 	/**
 	 * Whether to display a gray overlay when hovering over a stack.
@@ -121,7 +121,7 @@
 	 * can be, and where the page switching buttons go. The default is 176, the width
 	 * of most screens.
 	 */
-	minimum-recipe-screen-width: 182;
+	minimum-recipe-screen-width: 170;
 
 	/**
 	 * The amount of vertical margin to give in the recipe screen.
