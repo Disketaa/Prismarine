@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = inventory_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1748959651581
+  last_edited_time = 1748970324161
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:5d53adf2-f888-4559-ac37-181f77c5fff7-1748959629425] = [groups:][instances:]
+  [loading_requirement_container_meta:661fc869-b264-43fb-910c-277db966311f-1748970264431] = [groups:][instances:]
 }
 
 customization {
@@ -133,7 +133,14 @@ element {
 element {
   button_element_executable_block_identifier = 35617b3a-bbbb-4d2d-90eb-71ac06f8270b-1748789946892
   [executable_action_instance:a2340df9-209f-4033-b4c7-288ff7ae51f0-1748790008220][action_type:mimicbutton] = inventory_screen:516478
-  [executable_block:35617b3a-bbbb-4d2d-90eb-71ac06f8270b-1748789946892][type:generic] = [executables:a2340df9-209f-4033-b4c7-288ff7ae51f0-1748790008220;]
+  [executable_action_instance:9dbb8593-75f0-4bad-a59d-3a8d8de989df-1748969411982][action_type:set_variable] = recipe_book:true
+  [executable_block:95acd097-5e24-4e1e-ae3a-7cd50ca47dce-1748969527630][type:if] = [executables:9dbb8593-75f0-4bad-a59d-3a8d8de989df-1748969411982;][appended:97447a45-dd45-4406-9e05-e40910008094-1748969541234]
+  [executable_action_instance:81cc2b8e-2b86-48aa-9a04-9a1d29d14aa0-1748969547279][action_type:set_variable] = recipe_book:false
+  [executable_block:97447a45-dd45-4406-9e05-e40910008094-1748969541234][type:else] = [executables:81cc2b8e-2b86-48aa-9a04-9a1d29d14aa0-1748969547279;]
+  [if_executable_block_body:95acd097-5e24-4e1e-ae3a-7cd50ca47dce-1748969527630] = 3073efce-2388-4f77-995f-d65b63f5cc79-1748969487646
+  [loading_requirement_container_meta:3073efce-2388-4f77-995f-d65b63f5cc79-1748969487646] = [groups:][instances:abfb4b50-0265-4198-9179-d64e3f029ed5-1748969489599;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:abfb4b50-0265-4198-9179-d64e3f029ed5-1748969489599] = recipe_book:false
+  [executable_block:35617b3a-bbbb-4d2d-90eb-71ac06f8270b-1748789946892][type:generic] = [executables:a2340df9-209f-4033-b4c7-288ff7ae51f0-1748790008220;95acd097-5e24-4e1e-ae3a-7cd50ca47dce-1748969527630;]
   backgroundnormal = [source:local]/config/fancymenu/assets/button/recipes.png
   backgroundhovered = [source:local]/config/fancymenu/assets/button/recipes_hovered.png
   restartbackgroundanimations = true
@@ -335,7 +342,8 @@ element {
   stretch_y = false
   stay_on_screen = false
   element_loading_requirement_container_identifier = c70c71a5-995e-48af-868b-3dd28aec16a8-1748865666418
-  [loading_requirement_container_meta:c70c71a5-995e-48af-868b-3dd28aec16a8-1748865666418] = [groups:][instances:]
+  [loading_requirement_container_meta:c70c71a5-995e-48af-868b-3dd28aec16a8-1748865666418] = [groups:][instances:0d0b4c0a-f4ba-44ea-9d16-44d85887e46d-1748969656286;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:0d0b4c0a-f4ba-44ea-9d16-44d85887e46d-1748969656286] = recipe_book:true
   enable_parallax = false
   parallax_intensity = 0.5
   invert_parallax = false
@@ -394,64 +402,8 @@ element {
   stretch_y = false
   stay_on_screen = true
   element_loading_requirement_container_identifier = 7baf8082-a748-4d7b-87da-1cdbf5687fa5-1748953815364
-  [loading_requirement_container_meta:7baf8082-a748-4d7b-87da-1cdbf5687fa5-1748953815364] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
-}
-
-element {
-  interactable = true
-  source = {"placeholder":"guiwidth"} : {"placeholder":"elementwidth","values":{"id":"e428be08-d71a-4f67-973f-3542e8243cb3-1748900871689"}}
-  source_mode = direct
-  shadow = true
-  scale = 1.0
-  base_color = #FFFFFFFF
-  text_border = 2
-  line_spacing = 2
-  enable_scrolling = true
-  auto_line_wrapping = true
-  remove_html_breaks = true
-  code_block_single_color = #737373FF
-  code_block_multi_color = #565656FF
-  headline_line_color = #A9A9A9FF
-  separation_line_color = #A9A9A9FF
-  hyperlink_color = #0771FCFF
-  quote_color = #818181FF
-  quote_indent = 8.0
-  quote_italic = false
-  bullet_list_dot_color = #A9A9A9FF
-  bullet_list_indent = 8.0
-  bullet_list_spacing = 3.0
-  parse_markdown = true
-  element_type = text_v2
-  instance_identifier = 2a7d7374-a2d9-4206-a9e5-2d7807fa5aa9-1748954552598
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1018
-  sticky_anchor = false
-  anchor_point = mid-centered
-  x = -240
-  y = -157
-  width = 200
-  height = 40
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 41be3ea6-d110-4820-a051-56cce58ab379-1748954552598
-  [loading_requirement_container_meta:41be3ea6-d110-4820-a051-56cce58ab379-1748954552598] = [groups:][instances:]
+  [loading_requirement_container_meta:7baf8082-a748-4d7b-87da-1cdbf5687fa5-1748953815364] = [groups:][instances:0e7100d3-cf01-44e1-aa4f-f439bedea1aa-1748969672780;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:0e7100d3-cf01-44e1-aa4f-f439bedea1aa-1748969672780] = recipe_book:true
   enable_parallax = false
   parallax_intensity = 0.5
   invert_parallax = false
@@ -498,8 +450,8 @@ vanilla_button {
   auto_sizing_base_screen_height = 0
   sticky_anchor = false
   anchor_point = vanilla
-  x = 976
-  y = 486
+  x = 496
+  y = 232
   width = 20
   height = 18
   stretch_x = false

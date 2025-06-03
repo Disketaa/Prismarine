@@ -5,7 +5,7 @@ in vec4 vertexColor;
 
 const float ALPHA_TARGET = 0.50196;
 const vec3 WHITE = vec3(1.0, 1.0, 1.0);
-const vec3 ACCENT = vec3(122.0 / 255.0, 96.0 / 255.0, 52.0 / 255.0);
+const vec3 ACCENT = vec3(167.0 / 255.0, 170.0 / 255.0, 175.0 / 255.0);
 
 void main() {
     vec4 color = vertexColor;
