@@ -326,7 +326,7 @@ element {
   sticky_anchor = false
   anchor_point = mid-right
   advanced_posx = {"placeholder":"calc","values":{"expression":"{"placeholder":"elementposx","values":{"id":"38f8307b-0b05-483e-9859-cff7f33b33eb-1748865666418"}} - {"placeholder":"elementwidth","values":{"id":"e428be08-d71a-4f67-973f-3542e8243cb3-1748900871689"}} - 2","decimal":"false"}}
-  advanced_width = {"placeholder":"maxnum","values":{"first":"72","second":"{"placeholder":"minnum","values":{"first":"252","second":"{"placeholder":"calc","values":{"expression":"252 - {"placeholder":"math_floor","values":{"num":"{"placeholder":"calc","values":{"expression":"(677 - {"placeholder":"guiwidth"}) / 36","decimal":"false"}}"}} * 18","decimal":"false"}}"}}"}}
+  advanced_width = {"placeholder":"maxnum","values":{"first":"72","second":"{"placeholder":"minnum","values":{"first":"252","second":"{"placeholder":"calc","values":{"expression":"252 - {"placeholder":"math_floor","values":{"num":"{"placeholder":"calc","values":{"expression":"(695 - {"placeholder":"guiwidth"}) / 36","decimal":"false"}}"}} * 18","decimal":"false"}}"}}"}}
   x = -339
   y = -98
   width = 50
